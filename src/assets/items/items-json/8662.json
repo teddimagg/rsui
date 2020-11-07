@@ -1,0 +1,84 @@
+{
+    "id": 8662,
+    "name": "Banner",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14826,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-05-31",
+    "duplicate": false,
+    "examine": "A banner with the symbol of the HAM cult.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsElEQVR4XtXXy0rDQBQG4OZN+ghFEEEsFAqiUgvtorpQF4ILN27cCD6BorbW1FutIoooSAV9wCP/hNMmJ5MmJJmJHvjJpemcL5NpaUul/10OJYuVcqi9vBBIZ3VRbZv1eWrU5milWlExiJJ3nja5lEMvN9exeR4MYpMTylGDSYCMbK4LxqqUy1lRHigOJZvrkhuIG0pE4aBZKNlcl9xAr3e3gYElxjIIFZwlHUo2l2HMnwPJkVNW+LFJlHxNxghI17gw0NvwftIY2/FpV+Xr7JK+z6/oqLURQhgH8WNjCG8RgDgSYwCEmj42RjCKZ4gjFzySM8ibIc5P11UI5PPkIjBDUevJKOj9YUgfjyM1Y0+uS8Neb9K4MBDCa4pBsz5xVkDYR7NRv28T5C1mHQgBACD/ApYYI6AoFK+jwkEcHUiHsgZC0JC/oyQIWA7GkqOnqCkoCgVAUlDGWfJ+dvhBOpj/msJAfpj/WIL8qNxAHInRoayCGOUtzvgYAe20arTVrKpsNpZUcG6vU6eD7TU63F2n4/222uIY5/E6ruP//djH+3Hew2aq8J1nCWYoySz9As94kv2EHGkqAAAAAElFTkSuQmCC",
+    "wiki_name": "Banner (HAM)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(HAM)",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "banners",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

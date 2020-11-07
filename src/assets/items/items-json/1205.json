@@ -1,0 +1,86 @@
+{
+    "id": 1205,
+    "name": "Bronze dagger",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1206,
+    "linked_id_placeholder": 14633,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 10,
+    "lowalch": 4,
+    "highalch": 6,
+    "weight": 0.453,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "Short but pointy.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4Xu3VsUrEQBAG4J0yRYoUgSAIwSewsfDeQLC2FEHfQkEbEbHxGhFFFFFRLEQRFUXt5OCwEN9AEPEpft0d9nYvSetMCn9YArkiHzNzs8b8eQjVN0qxEMJ0Z8w9q78KhiELU5MO40HjZamBYkiMUQQ1YyZKowuKMYqgZkzrQDFGENQqjE0zqFUYpbmxqYP+WxVSBwlj4guyjhGeG8LxUe4+6E8VJF6d7mbmUJcXDFPE2BCWFlNsb2U4PWHU40OhhbEhzM0mWFlOsbvDqOurHM9PBXovRdRK0fzOzXyCtdUU+3sZzs8Cqt8r8P42Io0izHQSdzbWswHq9oZRnx8MEmpdwNjjh/zwgFG+ZYKzFEChCmEFeIg4ZhhkjDDEp14dYUCcVmFsCPd3Ob6/RodapRRyf+nXPi8+5eqQuybsFeE3sSLGhwY7Rrk6cVqF4UhjfgAX0Yoi0H9IeQAAAABJRU5ErkJggg==",
+    "wiki_name": "Bronze dagger (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dagger#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Bronze_dagger",
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": 2,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 3,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

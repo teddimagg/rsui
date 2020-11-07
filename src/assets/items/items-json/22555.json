@@ -1,0 +1,93 @@
+{
+    "id": 22555,
+    "name": "Thammaron's sceptre",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22556,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120000,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 0.198,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2018-07-26",
+    "duplicate": false,
+    "examine": "A mighty sceptre used in long forgotten battles.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGUlEQVR4Xu2X30oCQRTGnQfowotAhEAkJCJExJBddlGSxERlk8joH2pmaCFCEREFQYU3vUbQS/Rsp/1mHJ016yLdXS/64LC6LnN++805M2Mg8C/Pxejn8FQiaWWnQE8ZnR5Nje4NEfjcT6e8ghqDNLQ0dVMJaifjU9xhlIhEeEyOMEcxSsbjlNF1ujB1qtkw35OL7zehJS8cYhRZWSEtleJAKoiEeQgv0ZMdd0OgMaQrYhQOhWg1GqXLjKFMj/htYIO8R5fpJeyEOahW3YISQGuxGG2sr/Ppe60UR2CfayH6sIEAJu+h4BuHhwrgXMVoORjk04aAU4AaWCXFrXFNeQAEOROjwHeLRXqrWqOkak0B6Oz4yE2gQEAm285mOdBmIsGdurbKQ1ApRs9Zg05qNTeBhDOlfJ6MdJqDYOpQU/2yc+rQiXvl8qioXQBivKC3TJPDwBmZHPd7pSLd5nPUy5rU0jUq5HIcXJ3KyRFnlKgZOILr+K3F+oT7WKMAi6sM19xBzcAVTI/zrUX3YUlQQ7rngjtiYNm+05M4u099Zu4w6BLUA2I6jJAK8NMzM0q4IgvzNxgPxPiCNtklvsGcn57wM4/PrkD2glavLw5Mt9nke9NCwFy1WosAI7qn127zfcdHGAGyb1nU73T8h8HyL48OgPIRBhJ/YwCFzU/u2j7BQGwEgvOM7+7g7IKQdeQjjJSru/HftCggX9jmvQihLFT2AAAAAElFTkSuQmCC",
+    "wiki_name": "Thammaron's sceptre (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Thammaron's_sceptre#Charged",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 20,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 20,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staves",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

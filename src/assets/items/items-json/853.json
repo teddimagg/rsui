@@ -1,0 +1,79 @@
+{
+    "id": 853,
+    "name": "Maple shortbow",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 854,
+    "linked_id_placeholder": 14566,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 400,
+    "lowalch": 160,
+    "highalch": 240,
+    "weight": 1.36,
+    "buy_limit": 18000,
+    "quest_item": false,
+    "release_date": "2002-03-25",
+    "duplicate": false,
+    "examine": "A shortbow made out of Maple, still effective.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu2W3UrDQBCFu2/SR/BBvCiiFqoVqbXFGlJDtFZra7VWiiIKoiAi9cL3PDIJm2ZnE5HGzXqRA3Ox7M98zMzObqlUqBCXQLJZkcDUO8TMd3B34uLh9AiPfQ9P574NKIFBu4GdympCdARWyuXA+C4DCh26rRZ6zbrinBvfaUAhiDRvtxYB8ZU5SIWhuunWqzaAFimSRuOb7gGcrc28gVQQCUN27bbyBkqHeb44xqWzj05tPQ+g5BQtHIugzww7e2hX10wDJUdFvcoiaH7Ug5obFZNAP8PINRQdqh+/sW0KSE9RGgw9D5QquUdfk1nJIKqjcExvFp/LBUZ1FKaIeo4+92f6fYqoG3MY9azM0kHiaYqbFZg4ADU7us5UuFQvdJOo+UkgflpG6TAf0yHers7wMuoFdUKfK4oKj5Sx6HzdT/A5G2sgaQCGClhKYH47wvtkYAuAS0Qw3HlOAFwCr+N+BMRnLclYgS6vfwVTqNCS+gYDBdSSi9wf6AAAAABJRU5ErkJggg==",
+    "wiki_name": "Maple shortbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Maple_shortbow",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Maple_shortbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 29,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "id": 22368,
+    "name": "Bryophyta's staff (uncharged)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22369,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 65000,
+    "lowalch": 26000,
+    "highalch": 39000,
+    "weight": 1.5,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2018-05-03",
+    "duplicate": false,
+    "examine": "It's a slightly magical stick. All natural, of course.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPUlEQVR4Xu2XvWvCQBTAc2OHDh0CEhCkQwgZQhAkBCINBiUtKkUcHIrgIA6FLtK//9V3x3nH+dEuvnsFf/AI5Aj58b5CguDO/0bA9SBFwHTUl7GaV7BdNfK6eC2gfcmhG4WUUgLWy1rK2BnZb2fwtXmDz3ULWdKT9/IeXm+OgKbKji/UocV2HxOoBgl0wkfaLBkRgxbTZSOVcmUUqpyYQS1zTpwA00soVJeplR3yqVMS2Mw4bd+7dzlx8/FASmGU/Zheyg2UO1c+98mbYU+cPXWbRQHLSQZNSZ6lU2yxdpjQZ+kyh81ep5yEEJUpVkJpTLgof0ccPikhRJ0HXlJF/sRPKn4O+PVTligpE95RIt0okMFCzF6cWEYj5hktpoWY9BY7IcRIuSeeYNZLinvp/orZ6O6JR7z9tVzmmswP2Tzgh3+znO0AAAAASUVORK5CYII=",
+    "wiki_name": "Bryophyta's staff (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bryophyta's_staff#Uncharged",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Bryophyta's_staff_(uncharged)",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": -1,
+        "attack_crush": 40,
+        "attack_magic": 15,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30,
+            "magic": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staves",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

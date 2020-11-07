@@ -1,0 +1,79 @@
+{
+    "id": 22804,
+    "name": "Dragon knife",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22805,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 167,
+    "lowalch": 66,
+    "highalch": 100,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2019-01-10",
+    "duplicate": false,
+    "examine": "A finely balanced and powerful throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4Xu3VTUtCURAGYM/ShQsXQgSBtJQQCUOSJEkSkwyT1NAMMzPMj4zKCoJaBC2CoEUQtOuPTvc9x2Onq8vuXBcNDH6g3od35lw9nv+amRKk2vVSkNs5H9X9XjdRCnI/75MNzMBC4b1IMMiJUpAnC/FodTvgpabVOh1gmEAK8mwh0ACZGOZ0BL0u+Oll1Lh4L+BaOoLeLARA6GkYvGZKR2F0X1mYaSA8soMAmYYx03EYJOg96JeNZHBh3SbI3B/7L/xxKdBHUKUDhIZoDF6zpQPI5ygdO8RstnSAwR0Y6ZiQ6uieg/dKnKCvRb/8f9rNZiUCDQB2SCfDMC51kYfhkG7O+7SXy0kEWu8QYCbEUcxlp0N3FwM6azRkMmuxmMTo/WFNBYkAcnJYo52tjMQshUJjBFsq/VaLrntdCTmqVGg7nab1eJyWw+EJhIMQlKBBu02n9TodH1SpWiyOMSuRCMdoUD/xYzzdZlMmUyuX5Zg2EgleDMaDpcWI8BzpYEw4TcwYlEoFy4vTpNMBKJNK0Wo0yolBCQlAKtgdfaIwLpwoZowuIRNBA4RlxrjME2X/hsMl5GlC7xcK42PuUjq6BJXyeZmMy+mYJWgzmfx1N3YZhJr8S7B/gr00ZCYwbtU3eMvQFmYBsxoAAAAASUVORK5CYII=",
+    "wiki_name": "Dragon knife (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_knife#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Dragon_knife",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 28,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 30,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

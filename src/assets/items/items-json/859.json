@@ -1,0 +1,79 @@
+{
+    "id": 859,
+    "name": "Magic longbow",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 860,
+    "linked_id_placeholder": 14569,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2560,
+    "lowalch": 1024,
+    "highalch": 1536,
+    "weight": 1.814,
+    "buy_limit": 18000,
+    "quest_item": false,
+    "release_date": "2002-03-25",
+    "duplicate": false,
+    "examine": "A nice sturdy magical bow.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRUlEQVR4XtWWwWrCQBCGsw/QgwdBhEDIE/TsxUPpQeilBdFDDoGGlKBISgsehIBCoQffefTPskx29LyzfhCImwU//p3d2STxMOT/VsVQevgmKxWFmKFtVdF49U7pfheDmKG2aXopvE+bMgYxX2r0Oo9BzJfCM/54o0lVCLGgcrdSntjPhrLTXlfqOctYrFj2UjweDEO7uhZ/fK2txUuflIIQYKnhGJYv635DL5tDShl6ms/6HaiakpRCSvn5qJcSilxKoZby/y4yqXJN+d9BV8qvHXsUKJxNDpYajqHVqO68e1J4+BoTnPtSqCl/SYMipezSKQqBWynX6/x5wbC3TZayu049JXkzmLZfmimBYc+7Cm0/tVMCLIVe56TkrMCwlOKNQGJ3Hpqvk5IzFGCpSFIC9uR2UvKrEnbXIaFIUkqSqGQemgvA6yf1+I2AVwAAAABJRU5ErkJggg==",
+    "wiki_name": "Magic longbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Magic_longbow",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Magic_longbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 69,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "bows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

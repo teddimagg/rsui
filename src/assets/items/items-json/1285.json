@@ -1,0 +1,86 @@
+{
+    "id": 1285,
+    "name": "Mithril sword",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1286,
+    "linked_id_placeholder": 14734,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 845,
+    "lowalch": 338,
+    "highalch": 507,
+    "weight": 1.587,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A razor sharp sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABc0lEQVR4Xs2WzUrDQBRGO8tZdJFFQFx1VUoWpZSWYok0tLTUIoIuigtxIUop/uBriOgbiCIqLkRRRHeKLsQnEEF8lk/vDKnJoO46dz64hCQ35HDuTEgmM/YImFeYQiACUbSsjuZdyxGo1/toNldU0Xkpl+OCEqjVFhRIr7c1gmEC+n55qYswXESnM1DljJ3uzLpbdphhKNoO7apWe41/VLGdJAwrUGzHCZjf7JhdFiNQrc5hurHkjh36KjsBUyiEyg6Ny4lRkR1azE7ZSa4ds8titB0CcsZOuTLrAgxFoFhspYDMDovRdmhczHb07yhVEET8MKcnPh4fJpDPT6lxMY9KYHfHw+WFhmK2QxHY3Mji8CANZXZZjsB8WSqo6ysfz0+sUALdQGI1lNhuZ3F85OH2xsfrCwuUhulXJIYNOdppcVleSwL7ex7u73y8v02mAJJlPjXGaKDzMx+fHz9AZpfFCAwHUm15hvH8FZa18n9sw3wB4cQjqDuZuCgAAAAASUVORK5CYII=",
+    "wiki_name": "Mithril sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_sword",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Mithril_sword",
+    "equipment": {
+        "attack_stab": 16,
+        "attack_slash": 11,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 17,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,10 +1,11 @@
-import * as React from 'react'
-import styles from './styles.module.css'
+//Styles
+import './styles/normalize.scss'
+import './styles/theme.scss';
 
-interface Props {
-  text: string
-}
+// Components
+import Button from './components/Button/Button';
 
-export const ExampleComponent = ({ text }: Props) => {
-  return <div className={styles.test}>Example Component: {text}</div>
+
+export {
+  Button
 }

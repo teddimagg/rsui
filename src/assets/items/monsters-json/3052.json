@@ -1,0 +1,650 @@
+{
+    "id": 3052,
+    "name": "Goblin",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2001-01-04",
+    "combat_level": 2,
+    "size": 1,
+    "hitpoints": 5,
+    "max_hit": 1,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "goblin"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 5.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": true,
+    "examine": "An ugly green creature.",
+    "icon": null,
+    "wiki_name": "Goblin (Level 2)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Goblin#Level_2",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": -15,
+    "defence_slash": -15,
+    "defence_crush": -15,
+    "defence_magic": -15,
+    "defence_ranged": -15,
+    "attack_accuracy": -21,
+    "melee_strength": -15,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 1173,
+            "name": "Bronze sq shield",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 1237,
+            "name": "Bronze spear",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 559,
+            "name": "Body rune",
+            "members": false,
+            "quantity": "7",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 555,
+            "name": "Water rune",
+            "members": false,
+            "quantity": "6",
+            "noted": false,
+            "rarity": 0.046875,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": false,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 877,
+            "name": "Bronze bolts",
+            "members": false,
+            "quantity": "8",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.21875,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "9",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "15",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "20",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2347,
+            "name": "Hammer",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1171875,
+            "drop_requirements": null
+        },
+        {
+            "id": 10999,
+            "name": "Goblin book",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 288,
+            "name": "Goblin mail",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1949,
+            "name": "Chef's hat",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 1917,
+            "name": "Beer",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1009,
+            "name": "Brass necklace",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1438,
+            "name": "Air talisman",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 7812,
+            "name": "Goblin skull",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "drop_requirements": null
+        },
+        {
+            "id": 13447,
+            "name": "Ensouled goblin head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02857142857142857,
+            "drop_requirements": null
+        },
+        {
+            "id": 11942,
+            "name": "Ecumenical key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.016666666666666666,
+            "drop_requirements": null
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 2677,
+            "name": "Clue scroll (easy)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 6801,
+            "name": "Goblin champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "drop_requirements": null
+        },
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 1351,
+            "name": "Bronze axe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 1321,
+            "name": "Bronze scimitar",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1237,
+            "name": "Bronze spear",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0703125,
+            "drop_requirements": null
+        },
+        {
+            "id": 882,
+            "name": "Bronze arrow",
+            "members": false,
+            "quantity": "7",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 558,
+            "name": "Mind rune",
+            "members": false,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": false,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 559,
+            "name": "Body rune",
+            "members": false,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 825,
+            "name": "Bronze javelin",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 561,
+            "name": "Nature rune",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.265625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.1015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.0625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "16",
+            "noted": false,
+            "rarity": 0.0546875,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "24",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "10",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 2347,
+            "name": "Hammer",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0703125,
+            "drop_requirements": null
+        },
+        {
+            "id": 10999,
+            "name": "Goblin book",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 288,
+            "name": "Goblin mail",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1987,
+            "name": "Grapes",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1007,
+            "name": "Red cape",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 438,
+            "name": "Tin ore",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 7812,
+            "name": "Goblin skull",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "drop_requirements": null
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.09090909090909091,
+            "drop_requirements": null
+        },
+        {
+            "id": 13447,
+            "name": "Ensouled goblin head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03333333333333333,
+            "drop_requirements": null
+        },
+        {
+            "id": 11942,
+            "name": "Ecumenical key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.016666666666666666,
+            "drop_requirements": null
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2677,
+            "name": "Clue scroll (easy)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 6801,
+            "name": "Goblin champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "drop_requirements": null
+        },
+        {
+            "id": 199,
+            "name": "Grimy guam leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 201,
+            "name": "Grimy marrentill",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002929870616913557,
+            "drop_requirements": null
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002197299957811841,
+            "drop_requirements": null
+        },
+        {
+            "id": 205,
+            "name": "Grimy harralander",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0017089576725363665,
+            "drop_requirements": null
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0013423539518900344,
+            "drop_requirements": null
+        },
+        {
+            "id": 209,
+            "name": "Grimy irit leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0009765625,
+            "drop_requirements": null
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0007325363338021566,
+            "drop_requirements": null
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006103515625,
+            "drop_requirements": null
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00048828125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00036618232950550735,
+            "drop_requirements": null
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00036618232950550735,
+            "drop_requirements": null
+        }
+    ]
+}

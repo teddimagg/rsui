@@ -1,0 +1,77 @@
+{
+    "id": 11708,
+    "name": "Cursed goblin bow",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18125,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 30,
+    "lowalch": 12,
+    "highalch": 18,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2013-08-23",
+    "duplicate": false,
+    "examine": "A curse has been placed on this bow.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaUlEQVR4Xu2WwUoDMRCGmwfYQw6BHPsIPlWPguDBQw89FAWFgiAoiihSRVEUQREKRSkIvfhMv0l20zaTrGDXJB72gzkl2fnITLLpdFpaKAzhyAKDuLyGGN9C3NxD3D1CPDxDPL3kkGLgRycotrYDu8Ow0e2aoKsiUCbc7PXAR4dOchp0ZQRKERt892AhRGcmwJXRvVMM93IILUtkw/TP+VUOIVfEyhih0wsUg2FKoXoZfaz58RmK/iCFULhEy8TM3DWJhMK74h7lSkjfQTv9mEI/y9g5Rkb1D98fxRLyS1Qro34PemfsGn9OY8IibqKqkdW9Q8eSyLiJqhKpO8cf+zN+USL1F6cy7rca44uslmk1ssg4AuqyM28Z/a6pZPRpskL0aw3xZeR0Bvk2hXidlDL6caVE6E5F2x05/4KczT2ROoFIDWxRQh+fkJP3XAIUtpChyRMJUJgpkRWio5mI1qDr869kWlrW5Bth39KqPAKfIwAAAABJRU5ErkJggg==",
+    "wiki_name": "Cursed goblin bow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cursed_goblin_bow",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "bows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

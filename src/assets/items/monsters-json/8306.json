@@ -1,0 +1,440 @@
+{
+    "id": 8306,
+    "name": "Vyrewatch",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2006-09-04",
+    "combat_level": 105,
+    "size": 1,
+    "hitpoints": 90,
+    "max_hit": 11,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 8,
+    "aggressive": true,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": true,
+    "attributes": [
+        "vampyre"
+    ],
+    "category": [
+        "vampyre"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 90.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": true,
+    "examine": "Stop looking and run for your life!",
+    "icon": null,
+    "wiki_name": "Vyrewatch (Level 105)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vyrewatch#Level_105",
+    "attack_level": 105,
+    "strength_level": 86,
+    "defence_level": 85,
+    "magic_level": 105,
+    "ranged_level": 105,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 3325,
+            "name": "Vampyre dust",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 1213,
+            "name": "Rune dagger",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.05504587155963303,
+            "drop_requirements": null
+        },
+        {
+            "id": 1073,
+            "name": "Adamant platelegs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01834862385321101,
+            "drop_requirements": null
+        },
+        {
+            "id": 1123,
+            "name": "Adamant platebody",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.05504587155963303,
+            "drop_requirements": null
+        },
+        {
+            "id": 1079,
+            "name": "Rune platelegs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01834862385321101,
+            "drop_requirements": null
+        },
+        {
+            "id": 1355,
+            "name": "Mithril axe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.05504587155963303,
+            "drop_requirements": null
+        },
+        {
+            "id": 1163,
+            "name": "Rune full helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.009174311926605505,
+            "drop_requirements": null
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": true,
+            "quantity": "4-12",
+            "noted": false,
+            "rarity": 0.09174311926605505,
+            "drop_requirements": null
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "4-12",
+            "noted": false,
+            "rarity": 0.09174311926605505,
+            "drop_requirements": null
+        },
+        {
+            "id": 561,
+            "name": "Nature rune",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.09174311926605505,
+            "drop_requirements": null
+        },
+        {
+            "id": 890,
+            "name": "Adamant arrow",
+            "members": true,
+            "quantity": "8-16",
+            "noted": false,
+            "rarity": 0.03669724770642202,
+            "drop_requirements": null
+        },
+        {
+            "id": 830,
+            "name": "Rune javelin",
+            "members": true,
+            "quantity": "5-15",
+            "noted": false,
+            "rarity": 0.01834862385321101,
+            "drop_requirements": null
+        },
+        {
+            "id": 45,
+            "name": "Opal bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.001474442988204456,
+            "drop_requirements": null
+        },
+        {
+            "id": 9187,
+            "name": "Jade bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.000491480996068152,
+            "drop_requirements": null
+        },
+        {
+            "id": 9188,
+            "name": "Topaz bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.000491480996068152,
+            "drop_requirements": null
+        },
+        {
+            "id": 46,
+            "name": "Pearl bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.001474442988204456,
+            "drop_requirements": null
+        },
+        {
+            "id": 9189,
+            "name": "Sapphire bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.000491480996068152,
+            "drop_requirements": null
+        },
+        {
+            "id": 9190,
+            "name": "Emerald bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.00081913499344692,
+            "drop_requirements": null
+        },
+        {
+            "id": 9191,
+            "name": "Ruby bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.000982961992136304,
+            "drop_requirements": null
+        },
+        {
+            "id": 9192,
+            "name": "Diamond bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.001474442988204456,
+            "drop_requirements": null
+        },
+        {
+            "id": 9193,
+            "name": "Dragonstone bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.000982961992136304,
+            "drop_requirements": null
+        },
+        {
+            "id": 9194,
+            "name": "Onyx bolt tips",
+            "members": true,
+            "quantity": "6-14",
+            "noted": false,
+            "rarity": 0.000491480996068152,
+            "drop_requirements": null
+        },
+        {
+            "id": 449,
+            "name": "Adamantite ore",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01834862385321101,
+            "drop_requirements": null
+        },
+        {
+            "id": 453,
+            "name": "Coal",
+            "members": true,
+            "quantity": "6",
+            "noted": false,
+            "rarity": 0.03669724770642202,
+            "drop_requirements": null
+        },
+        {
+            "id": 2363,
+            "name": "Runite bar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01834862385321101,
+            "drop_requirements": null
+        },
+        {
+            "id": 2970,
+            "name": "Mort myre fungus",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.01834862385321101,
+            "drop_requirements": null
+        },
+        {
+            "id": 1515,
+            "name": "Yew logs",
+            "members": true,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.01834862385321101,
+            "drop_requirements": null
+        },
+        {
+            "id": 3239,
+            "name": "Bark",
+            "members": true,
+            "quantity": "4-8",
+            "noted": false,
+            "rarity": 0.03669724770642202,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "100-1000",
+            "noted": false,
+            "rarity": 0.13761467889908258,
+            "drop_requirements": null
+        },
+        {
+            "id": 2722,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.007473841554559043,
+            "drop_requirements": null
+        },
+        {
+            "id": 199,
+            "name": "Grimy guam leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0022935779816513763,
+            "drop_requirements": null
+        },
+        {
+            "id": 201,
+            "name": "Grimy marrentill",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0017202910044263088,
+            "drop_requirements": null
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0012901577733941084,
+            "drop_requirements": null
+        },
+        {
+            "id": 205,
+            "name": "Grimy harralander",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0010034246884617199,
+            "drop_requirements": null
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0007881711277152496,
+            "drop_requirements": null
+        },
+        {
+            "id": 209,
+            "name": "Grimy irit leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0005733944954128441,
+            "drop_requirements": null
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00043011307672787176,
+            "drop_requirements": null
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00035837155963302754,
+            "drop_requirements": null
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00028669724770642203,
+            "drop_requirements": null
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00021500613842525204,
+            "drop_requirements": null
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00021500613842525204,
+            "drop_requirements": null
+        }
+    ]
+}

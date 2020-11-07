@@ -1,0 +1,79 @@
+{
+    "id": 3093,
+    "name": "Black dart",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14521,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2004-08-09",
+    "duplicate": false,
+    "examine": "A deadly throwing dart with a black tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABOUlEQVR4Xu2Vr2vDQBTH78kTERGBMihUjImJUspgpmqqoqampqZipqJQUTExUTGY2B/9et97uSW5VFQ0d0/0A18C+cWH77tLjHmQDeL4TEaIq7JkRVIQIZ5NJj7x1cQ07aiTUScUX02MqnZE5tHOdVS105dRJxTfkZC+TAYh+SW0ZTK2Q/w3LvnnqeCzy3puefFscrVD/FuLfLts3ix/vBheFTZHO+RbgQiyfbe8fBWhdemOhbQUPzUQ9N/K10iymooQAqFlupaoI3IayaggAqmdk9m4YGwLO3hL1BFBjnU7IW2hgRe2yLRFEOyqdj4ry9tIKH7THWm+NyEYV8ihKlILGRNG0IyC/A5D0FhyoetIWxDa10Jh22cSAl2hgRf0rVBPKL4jMeQXtiIhQP5bpEgIqFg/Xe4tcwEB+hPufo6GOwAAAABJRU5ErkJggg==",
+    "wiki_name": "Black dart (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_dart#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Black_dart",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 7,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 6,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

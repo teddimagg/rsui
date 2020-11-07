@@ -1,0 +1,86 @@
+{
+    "id": 4503,
+    "name": "Decorative sword",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15629,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1300,
+    "lowalch": 520,
+    "highalch": 780,
+    "weight": 1.587,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2005-03-07",
+    "duplicate": false,
+    "examine": "A very decorative sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu2WsUvDQBjFc2MHhwyOhU7OLv4Dzv4Hujl2qVgKYmvQEGwtJRUbBSsEa0sDokVxyeo/9mwuvYRcYjvluxv64EE4vnA/3rvhM4zSxSCfKBSDbQ+gCRTDfP7NYfZrNW55glAxjEhHMUyktCot0olgNEknX5VCoBRGg3SKYRQBxTDbqopVDKMIKAujOJ3su1GcTh5GYTrrYbQDkqdLFkMQ/PwLox2QPF2Coi1PbHoxjLBl9bgJ02F46HZxenK8gmIwd++5d8w2PYw/GuHZdXOuVI640/TIduX4slfPw2Iywbvv4+Ksgf7NNcbDIRbTKX7DEMHLmA4qrmJ52d4hjOoBDLMKp32JgW3Du+slMES1RcrCcC/PrFYLruPg9qqTAMl/lqBimCS1lYnSYQg/P/D29Ijzej0DIy4X3wQwQgydZpNX8zWbUVazTuTVbJaCarbaqD9tMJ3sjo8wXgAAAABJRU5ErkJggg==",
+    "wiki_name": "Decorative sword (white)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Decorative_sword_(white)",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 15,
+        "attack_slash": 20,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 22,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

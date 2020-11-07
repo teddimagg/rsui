@@ -1,0 +1,79 @@
+{
+    "id": 6527,
+    "name": "Tzhaar-ket-em",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6539,
+    "linked_id_placeholder": 18258,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 30000,
+    "lowalch": 12000,
+    "highalch": 18000,
+    "weight": 1.814,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2005-09-19",
+    "duplicate": false,
+    "examine": "A mace of obsidian.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLklEQVR4Xu2W7woBQRTFzVtIqX0CbSKRojZCCGFlkT9Jef/vV2ema8c+wNyb9tT9sPNlfp177p2tVEqVKiUmQ8UTQRlaTiekCMpQttt5UOJghp6Xs4Waj8fU73R0QL2u169TzUZDB9Rhs6Fzmlqn8B1HkR6o0XCowSXIBRtQkyTRAeVaZeh2PGqaPsjQ45TRdrHQ1UJMILLFYVcAZuh9v9tcrWczGvR6HlgRMBhsvtEB1I5jqlWr1rVuq/UFCzwI+aVRvW6zBcd4uwNWYIc5p5Cp/WplgXDGcDyVgYDc1GEdIE/8/jEcoIID4UK/AMWOsUv5NAZRPlnsFErQJcj9shTbxy6JAOFiLh+K3QNMUCBkhYHYKR8kIAzkgBgK2RFwpajfp0MYxslvjzjMX+oDE2sfswBoTlMAAAAASUVORK5CYII=",
+    "wiki_name": "Tzhaar-ket-em",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tzhaar-ket-em",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Tzhaar-ket-em",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 62,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 56,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 1426,
+    "name": "Black mace",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1427,
+    "linked_id_placeholder": 14671,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 432,
+    "lowalch": 172,
+    "highalch": 259,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2002-02-27",
+    "duplicate": false,
+    "examine": "A spiky mace.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA3UlEQVR4Xu2UwQrCQAxEu5/QQ0EEYRER8SA99NKDKIig0EMPgv//JZEY1u5GoQqSRNyBuaXsYzJpUfyPHAxWFUFUZfmwMFScRAoSA9XeS0C9BuDOQGPOQO9Y6NI+AxJIKQON6UeAqMCpEUYFKH6cm3/9ZTlomyl0x3mSitDjXA426wpOe38H4qnwaQE52LUz6M8LzVSCHDT15CkZPiUkgjls03T4lKCMrQqvCotsBgZXdemWNlaFMGaKjL0xs6oAY+aqOIwi0NCba7/STod+gIa6gyIoIzBBpmBI0jA3L5k/QvdJpv8AAAAASUVORK5CYII=",
+    "wiki_name": "Black mace",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_mace",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Black_mace",
+    "equipment": {
+        "attack_stab": 8,
+        "attack_slash": -2,
+        "attack_crush": 16,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 13,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spiked_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

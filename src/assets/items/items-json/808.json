@@ -1,0 +1,79 @@
+{
+    "id": 808,
+    "name": "Steel dart",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14520,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 10,
+    "lowalch": 4,
+    "highalch": 6,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A deadly throwing dart with a steel tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdElEQVR4Xu2VPUvDUBSGc8Y7ZOhQKILQQRyCiIgglILgUDpkaYcijUqssRL7YcSIFRQUhA7+6GNObtImVweH5t4z+MJLoUnLw3POTSzrP8YCqH5jMIBRGCIjKAIBPGg206pXNQfwbjRaAalXNQfwaTblZef63ONjZz4ec7ED+PIQ4Vm/z8fOre/zsfM4maDb6XCwA/gWx3g1HPKxMw0CPGm1eNh5vp+XFtkAkHwlUD8WC7y5vMA9xzFlB/Bru4afWza+J+0dCmzvWKbsAC4zkNekgyOBp7sWurYwYQdSKwRC9Y4Fdh0J1Ksln7a0pP6qosDKyqIh6+5LICoBdfVZghJI3JCjIhCC8hOYQVIaW1tUbglKINQos5O3CFTxYkuYIgiVTlWxQV2gpwCp/7TBrJ83eWlceWd1WzeQZeUjWI8C0hNGJWPagX6PtEVAYQaUH3tDQJQyUMUL/dfADyD1Ds2BdLEZAVEgfRYxAqKw2J9yNg3zDavLJUtyGySiAAAAAElFTkSuQmCC",
+    "wiki_name": "Steel dart (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_dart#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Steel_dart",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 5,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 4,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

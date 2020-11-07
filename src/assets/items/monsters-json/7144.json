@@ -1,0 +1,478 @@
+{
+    "id": 7144,
+    "name": "Demonic gorilla",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2016-05-06",
+    "combat_level": 275,
+    "size": 2,
+    "hitpoints": 380,
+    "max_hit": 0,
+    "attack_type": [
+        "crush",
+        "ranged",
+        "magic"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "monkey",
+        "black demon"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 408.5,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "chaeldar",
+        "duradel",
+        "nieve"
+    ],
+    "duplicate": false,
+    "examine": "One of Glough's demonic creations.",
+    "icon": null,
+    "wiki_name": "Demonic gorilla",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Demonic_gorilla",
+    "attack_level": 205,
+    "strength_level": 195,
+    "defence_level": 200,
+    "magic_level": 195,
+    "ranged_level": 195,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 40,
+    "attack_ranged": 43,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 50,
+    "defence_ranged": 0,
+    "attack_accuracy": 43,
+    "melee_strength": 29,
+    "ranged_strength": 29,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 592,
+            "name": "Ashes",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 19529,
+            "name": "Zenyte shard",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0033333333333333335,
+            "drop_requirements": null
+        },
+        {
+            "id": 19592,
+            "name": "Ballista limbs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002,
+            "drop_requirements": null
+        },
+        {
+            "id": 19601,
+            "name": "Ballista spring",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002,
+            "drop_requirements": null
+        },
+        {
+            "id": 19586,
+            "name": "Light frame",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0013333333333333333,
+            "drop_requirements": null
+        },
+        {
+            "id": 19589,
+            "name": "Heavy frame",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006666666666666666,
+            "drop_requirements": null
+        },
+        {
+            "id": 19610,
+            "name": "Monkey tail",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006666666666666666,
+            "drop_requirements": null
+        },
+        {
+            "id": 1079,
+            "name": "Rune platelegs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.07,
+            "drop_requirements": null
+        },
+        {
+            "id": 1093,
+            "name": "Rune plateskirt",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.07,
+            "drop_requirements": null
+        },
+        {
+            "id": 1113,
+            "name": "Rune chainbody",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "drop_requirements": null
+        },
+        {
+            "id": 4587,
+            "name": "Dragon scimitar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "drop_requirements": null
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": true,
+            "quantity": "50-75",
+            "noted": false,
+            "rarity": 0.07,
+            "drop_requirements": null
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": true,
+            "quantity": "50-75",
+            "noted": false,
+            "rarity": 0.07,
+            "drop_requirements": null
+        },
+        {
+            "id": 9144,
+            "name": "Runite bolts",
+            "members": true,
+            "quantity": "100-150",
+            "noted": false,
+            "rarity": 0.05,
+            "drop_requirements": null
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": "7-13",
+            "noted": true,
+            "rarity": 0.01124859392575928,
+            "drop_requirements": null
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": "7-13",
+            "noted": true,
+            "rarity": 0.009000900090009001,
+            "drop_requirements": null
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": "7-13",
+            "noted": true,
+            "rarity": 0.006752194463200541,
+            "drop_requirements": null
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": "7-13",
+            "noted": true,
+            "rarity": 0.009000900090009001,
+            "drop_requirements": null
+        },
+        {
+            "id": 139,
+            "name": "Prayer potion(3)",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.08,
+            "drop_requirements": null
+        },
+        {
+            "id": 385,
+            "name": "Shark",
+            "members": true,
+            "quantity": "2-3",
+            "noted": false,
+            "rarity": 0.07,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "5000-10000",
+            "noted": false,
+            "rarity": 0.05,
+            "drop_requirements": null
+        },
+        {
+            "id": 6689,
+            "name": "Saradomin brew(2)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.05,
+            "drop_requirements": null
+        },
+        {
+            "id": 2361,
+            "name": "Adamantite bar",
+            "members": true,
+            "quantity": "6",
+            "noted": true,
+            "rarity": 0.04,
+            "drop_requirements": null
+        },
+        {
+            "id": 19584,
+            "name": "Javelin shaft",
+            "members": true,
+            "quantity": "750-1250",
+            "noted": false,
+            "rarity": 0.05,
+            "drop_requirements": null
+        },
+        {
+            "id": 19580,
+            "name": "Rune javelin heads",
+            "members": true,
+            "quantity": "45-55",
+            "noted": false,
+            "rarity": 0.05,
+            "drop_requirements": null
+        },
+        {
+            "id": 19582,
+            "name": "Dragon javelin heads",
+            "members": true,
+            "quantity": "27-33",
+            "noted": false,
+            "rarity": 0.05,
+            "drop_requirements": null
+        },
+        {
+            "id": 1601,
+            "name": "Diamond",
+            "members": true,
+            "quantity": "4-6",
+            "noted": true,
+            "rarity": 0.034,
+            "drop_requirements": null
+        },
+        {
+            "id": 2363,
+            "name": "Runite bar",
+            "members": true,
+            "quantity": "3",
+            "noted": true,
+            "rarity": 0.03,
+            "drop_requirements": null
+        },
+        {
+            "id": 2722,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01,
+            "drop_requirements": null
+        },
+        {
+            "id": 12073,
+            "name": "Clue scroll (elite)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002,
+            "drop_requirements": null
+        },
+        {
+            "id": 5295,
+            "name": "Ranarr seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.006000240009600384,
+            "drop_requirements": null
+        },
+        {
+            "id": 5300,
+            "name": "Snapdragon seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0055997312129017806,
+            "drop_requirements": null
+        },
+        {
+            "id": 5304,
+            "name": "Torstol seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0044014084507042256,
+            "drop_requirements": null
+        },
+        {
+            "id": 5321,
+            "name": "Watermelon seed",
+            "members": true,
+            "quantity": "30",
+            "noted": false,
+            "rarity": 0.004,
+            "drop_requirements": null
+        },
+        {
+            "id": 5313,
+            "name": "Willow seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.004,
+            "drop_requirements": null
+        },
+        {
+            "id": 21488,
+            "name": "Mahogany seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.003599712023038157,
+            "drop_requirements": null
+        },
+        {
+            "id": 5314,
+            "name": "Maple seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.003599712023038157,
+            "drop_requirements": null
+        },
+        {
+            "id": 21486,
+            "name": "Teak seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.003599712023038157,
+            "drop_requirements": null
+        },
+        {
+            "id": 5315,
+            "name": "Yew seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.003599712023038157,
+            "drop_requirements": null
+        },
+        {
+            "id": 5288,
+            "name": "Papaya tree seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0027995520716685334,
+            "drop_requirements": null
+        },
+        {
+            "id": 5316,
+            "name": "Magic seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0024003840614498324,
+            "drop_requirements": null
+        },
+        {
+            "id": 5289,
+            "name": "Palm tree seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.002,
+            "drop_requirements": null
+        },
+        {
+            "id": 5317,
+            "name": "Spirit seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0016,
+            "drop_requirements": null
+        },
+        {
+            "id": 22877,
+            "name": "Dragonfruit tree seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0011999040076793857,
+            "drop_requirements": null
+        },
+        {
+            "id": 22869,
+            "name": "Celastrus seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0008,
+            "drop_requirements": null
+        },
+        {
+            "id": 22871,
+            "name": "Redwood tree seed",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0008,
+            "drop_requirements": null
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "id": 6734,
+    "name": "River troll",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-02-02",
+    "combat_level": 49,
+    "size": 1,
+    "hitpoints": 0,
+    "max_hit": 7,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "troll"
+    ],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Likes fish... hates people.",
+    "icon": null,
+    "wiki_name": "River troll (Level 49)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/River_troll#Level_49",
+    "attack_level": 48,
+    "strength_level": 48,
+    "defence_level": 48,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 359,
+            "name": "Raw tuna",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 331,
+            "name": "Raw salmon",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 345,
+            "name": "Raw herring",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 349,
+            "name": "Raw pike",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.046875,
+            "drop_requirements": null
+        },
+        {
+            "id": 327,
+            "name": "Raw sardine",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 371,
+            "name": "Raw swordfish",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1484375,
+            "drop_requirements": null
+        },
+        {
+            "id": 383,
+            "name": "Raw shark",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.09375,
+            "drop_requirements": null
+        },
+        {
+            "id": 313,
+            "name": "Fishing bait",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.2109375,
+            "drop_requirements": null
+        },
+        {
+            "id": 313,
+            "name": "Fishing bait",
+            "members": true,
+            "quantity": "15",
+            "noted": false,
+            "rarity": 0.0703125,
+            "drop_requirements": null
+        },
+        {
+            "id": 313,
+            "name": "Fishing bait",
+            "members": true,
+            "quantity": "30",
+            "noted": false,
+            "rarity": 0.1015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 313,
+            "name": "Fishing bait",
+            "members": true,
+            "quantity": "50",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 314,
+            "name": "Feather",
+            "members": true,
+            "quantity": "20",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 314,
+            "name": "Feather",
+            "members": true,
+            "quantity": "40",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 407,
+            "name": "Oyster",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.09375,
+            "drop_requirements": null
+        },
+        {
+            "id": 151,
+            "name": "Fishing potion(3)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 405,
+            "name": "Casket",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        }
+    ]
+}

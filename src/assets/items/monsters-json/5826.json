@@ -1,0 +1,355 @@
+{
+    "id": 5826,
+    "name": "Ice troll grunt",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-02-06",
+    "combat_level": 102,
+    "size": 1,
+    "hitpoints": 80,
+    "max_hit": 21,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "troll"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 84.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "A large ice troll.",
+    "icon": null,
+    "wiki_name": "Ice troll grunt",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_troll_grunt",
+    "attack_level": 100,
+    "strength_level": 100,
+    "defence_level": 60,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 30,
+    "defence_slash": 60,
+    "defence_crush": 30,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 60,
+    "melee_strength": 60,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 1161,
+            "name": "Adamant full helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1119,
+            "name": "Steel platebody",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1343,
+            "name": "Mithril warhammer",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1357,
+            "name": "Adamant axe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1201,
+            "name": "Rune kiteshield",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 3122,
+            "name": "Granite shield",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1347,
+            "name": "Rune warhammer",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": true,
+            "quantity": "8-14",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": true,
+            "quantity": "12-36",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 561,
+            "name": "Nature rune",
+            "members": true,
+            "quantity": "4-12",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": true,
+            "quantity": "4-8",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "200",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 383,
+            "name": "Raw shark",
+            "members": true,
+            "quantity": "2-8",
+            "noted": true,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 401,
+            "name": "Seaweed",
+            "members": true,
+            "quantity": "3-9",
+            "noted": true,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1759,
+            "name": "Ball of wool",
+            "members": true,
+            "quantity": "18-42",
+            "noted": true,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 13483,
+            "name": "Ensouled troll head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.05,
+            "drop_requirements": null
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "drop_requirements": null
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "drop_requirements": null
+        },
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "drop_requirements": null
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "drop_requirements": null
+        },
+        {
+            "id": 199,
+            "name": "Grimy guam leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 201,
+            "name": "Grimy marrentill",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002929870616913557,
+            "drop_requirements": null
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002197299957811841,
+            "drop_requirements": null
+        },
+        {
+            "id": 205,
+            "name": "Grimy harralander",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0017089576725363665,
+            "drop_requirements": null
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0013423539518900344,
+            "drop_requirements": null
+        },
+        {
+            "id": 209,
+            "name": "Grimy irit leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0009765625,
+            "drop_requirements": null
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0007325363338021566,
+            "drop_requirements": null
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006103515625,
+            "drop_requirements": null
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00048828125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00036618232950550735,
+            "drop_requirements": null
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00036618232950550735,
+            "drop_requirements": null
+        }
+    ]
+}

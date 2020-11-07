@@ -1,0 +1,79 @@
+{
+    "id": 22547,
+    "name": "Craw's bow (u)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22548,
+    "linked_id_placeholder": 22549,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120000,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 3.175,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2018-07-26",
+    "duplicate": false,
+    "examine": "This bow once belonged to a formidable follower of Armadyl.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACLklEQVR4Xs2X70tTURjHff6IYAQDX41ejd6NxqDBSIZoqEjIYGIxF8tVMk0GNmSMi9KKC5OJbEzMpixIx3oRpCJKLILYq3rZ//KN51ycu+fWSt3ZvR94uNwfu8+Hc87znLuBAVsgyFdshBCf9MIhUixBCPsHxfH2IB+VYiT8W+jaKyRjCXg9N1QKXSQ8PPoi4vi4iZJeNMVqJoeFuee4473ZllEgRKjXD1GpvEc+v4GlpRVEIg/h8wUwOjqJmZnHSKWWkcu9QaFQQcjnVitTLteQTmcRjc4iGLxnmaI/hTIZDh4Rj+eWJdm/Qn7bNSGcVqbw69MTDA2NWETkp/sE4fveNNzuvpWvjHUtBAJTKtdENwg7O3URpdKeqBauqPGJtF2jwxhS29sfRLBYIjFvl5AxRSyxuVnF/sFnNBpHqL6O9lvIEDk5+Yqzs29ILdRQrdbRqk3j5/4j5FNBaJresa6UQmg2W2i1fojmx4mHh8fbybkbb2kRfCxMYG1tHbpeUilFKBbfConFxUzHCHRWlHH+ThtBJrMqtgYWUyBFYn3w/uNymTdBubzPxVg6Hn8munY2m++1FImyDofvSyPSDWpXHMfyS62XUoTk0xeXkDnHPJ2X+21XCH7/3fZL5bvdsE5nTyCMjT24kpAiCLFY0llCXGGOEuK+4hAhwu5uQzS4UCgspOQn+ozRg/j7uMele1WMrusYGZ4qxX/g/hcyfUY4YHQY8yYq37UFp4j8Bn9dxBsosMgLAAAAAElFTkSuQmCC",
+    "wiki_name": "Craw's bow (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Craw's_bow#Uncharged",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Craw's_bow_(u)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 75,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 60,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

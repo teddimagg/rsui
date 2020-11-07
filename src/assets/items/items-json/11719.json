@@ -1,0 +1,86 @@
+{
+    "id": 11719,
+    "name": "Rune pickaxe (nz)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2013-09-05",
+    "duplicate": false,
+    "examine": "For use in the Nightmare Zone. Doesn't work for mining.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu2WQUvDQBSENz/CiyDkIMWDlCIUobRQmkspKtpDKGg9VDzqpZcePHj1Vz+ZrM/sbjeJdjfkIQ4MDWHTfJ03TVapv6WEbHeqhPqpouGpovGZotm5ahvK/fX7Ht+uKLt/psXTK9297IpzgzSNDaVvdpFdNfpysaTJ8oFmqw3l2/fYQDbIYDpvdO9YjwwpTfNHI71gJTSc3xSuAupPMssnR6roEMxASAuOBLbfkTojHR/Q6Dr/7lYwGObfZNzATMcHhG7BOOayB4HVy04HNpNjIB4/PnFu/fbRBpQfxk2Qzd0DGMbIa91vDZANZMKYq3xwSKr8J0ZRdTruSlMuHJ5ZkaD0q8KFaQIyxWC/vc4jOx0c/ySdKh16naHwdCLqsO60KMHpdAwDlemEFjmCBKcjosj/6dSrBBKRDo8L+2UR6TCQgHQgvUUV8NxhaSBYCBD0tQXtflylRMF0qU8/ppzgDI3ZaQAAAABJRU5ErkJggg==",
+    "wiki_name": "Rune pickaxe (Nightmare Zone)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_pickaxe#Nightmare_Zone",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 26,
+        "attack_slash": -2,
+        "attack_crush": 24,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 29,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxes",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

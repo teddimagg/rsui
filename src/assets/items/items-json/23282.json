@@ -1,0 +1,77 @@
+{
+    "id": 23282,
+    "name": "Gilded spade",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 23283,
+    "linked_id_placeholder": 23284,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 3.0,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2019-04-11",
+    "duplicate": false,
+    "examine": "Oh, I'm a gold digger?",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfElEQVR4XuXWv0sDMRQH8MuY4YYMARGEG0ScpINFEAXHKl0q/gARUVAEtXKDg0KRgoJDoeLQyUEQCkJB8C/wT/vKS4ztXaqdLu/AL4Rr05Z+eHnv2ij6XxHI7zCFIAKfj1PmygizX95v6Z9FqCEsaLKQ/KLXK0kSCvU3xlUqUJUmYwKifse83fp7tAo+uvGgSZgCQZQsihnjYsd90PYhDBiKxXROlYcZBeU/VVAE3u80uucKtao013GYoKBeqpBuxd8jLfDUtCgWzMeNxvGGRGNVjhyNhQXHDK40ahWJGR15gOCYfqpRX5SYm/YxgSPweqnQWJJYSEqAeT5T2FmWqM6yYygCh2sSK/MlwTTXY9PEpcBcb8amiUuBud+LTRMzYNwf8uHqHtkmZsH0ThQe9mODoMc0UdTEDBiKMJh8hdK63QuModjGzVZDoL3LBqIItLZdlexzOj5GEMVOlTuylwt2EEWgc6DMbxbdDN39J/+uwMk2N8OU+XGIkJgv7vOq9vbNTLQAAAAASUVORK5CYII=",
+    "wiki_name": "Gilded spade",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_spade",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Gilded_spade",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

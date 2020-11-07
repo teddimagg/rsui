@@ -1,0 +1,84 @@
+{
+    "id": 10129,
+    "name": "Barb-tail harpoon",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 10130,
+    "linked_id_placeholder": 15411,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 36,
+    "lowalch": 14,
+    "highalch": 21,
+    "weight": 1.36,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "A mighty Hunter weapon. One previous owner.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdklEQVR4Xu2U30vCUBiGPX9IIF11FV4Y0tArIRJECESF8iLQIhxjlGUGY4iV7ELcRV35x77ynnHYD7OrjmeBD3yMwcYe3u89KxQOHMgtAj+PEQTW6xDL5RxB4GO1+sBi4cHzxmalOO/zN8xmr5hMHEynrkkpgaZ1jG79BE+PIzjOHZ7HtpQpFYtysm9oRKBePsJlpQjXfcBw2IdtD1JC2Tc0EBe33zxD96Ikk+GaKPb9Fci17UlIYHB1jvu2hetGGe36qSw0h0lx+AzlfP9Fd4cEblsVOZTilelQinLJ5MLwU3eHBG5aNbmipBDvOcmPRwKaZThMg0moUSK7Pp69/yOiznQallwNpZJiu2Q0EckwiV6zmpL6LRlNxDJMQglxtvuiHSGPtZJRazKQCknLJI/znlMhsYwSMiRCBEadauq/YmA9iqjA6kdnMBUSy/BqMBUSy3BduZBhiQ33hUQyTq9mui8kOk1ZmexTe8b4irbJlcyB/8IGYkljRBg8qvkAAAAASUVORK5CYII=",
+    "wiki_name": "Barb-tail harpoon",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Barb-tail_harpoon",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Barb-tail_harpoon",
+    "equipment": {
+        "attack_stab": 9,
+        "attack_slash": 4,
+        "attack_crush": -4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 6,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

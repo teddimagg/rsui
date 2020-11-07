@@ -1,0 +1,86 @@
+{
+    "id": 1353,
+    "name": "Steel axe",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1354,
+    "linked_id_placeholder": 14707,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 200,
+    "lowalch": 80,
+    "highalch": 120,
+    "weight": 1.36,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A woodcutter's axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABq0lEQVR4Xu2WzUsCURTFfctZzGIW7f0T3LYIojYREQhRkAUDTsqgY5OZTX5UhuFCCFoE/re3zr29bKYPRXn4Fh644MBDf5xzj29yubWMSFF6VipFUdGl5NSlcdWjSdPLwP02RqUoPnKpdz4FGt336aHdptvLBjUqFZ44DOm6VqObqG4aSlHrxKVH36WXmkfjpwE997o07HRokCQ8/VaL7q5ihgk3HAYq5PMmoBSFhw7HNSwLEGAAAHcAAJBus/n1bBwI7iCu0YUAAQY/XA8Cqvo+xwQoAOGzcSC4g7iwPz+XVzGYdgd7ZBBIUbDvsDs6Lv1DevBcPiuxM5jgAwajobLfuKSk7t/dmYKkz8EluKOB/j67lCSurDvZUyLF1TcK4+857A6W+TWaBQTJThmAgaTucOf/uNKa58yCkn9nXfXZ7hiVouNtaRfceYstAELds8u8UiDUHe7Mt8xGpehg0+Hrwhp3SrtSdwvcgaTuaJcVy7xTyHHdrYkLdcd1YYE7kFwXqLt+b145kK67FXEVt6Tu1rRL7481cWF/cH9ZEJeW0feZxWQVzFqfegfSzZOYAj3cogAAAABJRU5ErkJggg==",
+    "wiki_name": "Steel axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_axe",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Steel_axe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 8,
+        "attack_crush": 6,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 9,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axes",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

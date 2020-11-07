@@ -1,0 +1,84 @@
+{
+    "id": 10150,
+    "name": "Noose wand",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 10151,
+    "linked_id_placeholder": 15415,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 4,
+    "lowalch": 1,
+    "highalch": 2,
+    "weight": 1.814,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "A noose on a stick.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABRUlEQVR4XmNgGAWjgKaA8T92PCCA8X9rru3/jgL7/30lTv9n13v8n1gd9L+zMnYgHMX4PzfC6H+AgwpG6DTlef63N4WJ0wUw/nc2l4U7wEBBAQWDxCqDtP4rSfDSy1GM/9uLfFAcg64CJFcS4QRXgy5LA4DPMTCAcBS6DE0AfseAACJdEVZLc8D4vybLDewYuoYSfgALGWKil04A4YgBLTDRAeP/3fOz/nfGGgwWRzH+Lw3Q+m+uIjhYEjgIMP5PD7f672GuMXhCKTva5n9ZivP/EAe9weMokIMq01z/J3qZDx5HgRxUn+PxPzvIZvA4qqc84P+CXMvBVWi2RhuAiwIpQc7B4CjG/ynOKv9tNEThUTcIigPG/7EBptDQGSQOAhUFIDovxHYwRBsIICrgQRJKsAp4UIUSDAyiZgoMDCrHjAJqAQCjBMA29eg1eAAAAABJRU5ErkJggg==",
+    "wiki_name": "Noose wand",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Noose_wand",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Noose_wand",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spears",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

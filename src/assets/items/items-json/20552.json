@@ -1,0 +1,86 @@
+{
+    "id": 20552,
+    "name": "Rune battleaxe",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 2.721,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2001-08-13",
+    "duplicate": true,
+    "examine": "A vicious looking axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsUlEQVR4Xt3XQUsCQRgG4J2jhz34DzxGh5BAIlFYWohFVFTKJCskE6mwjBKECIKCDp37vV+98zHNOJqndXbohbnsLrsP73wraxD8nwjilXkYUh9NqT2ZZ4liyOH5WGJaNzM6fniRx4qFgmuUoKh7ITG14Z3EdO6fqTd7ywIkqNo5o4PeJcX9ESWDW4lqjB+NLXM6T4LKjS5VWj0JQ1OAqbZw/nUQ0scodAVj0F6tswRTrQH0Pgzpc5ynr2neai11pAapZcKmRyHNT8OllrC1aBFgwFNEMUihSkmTduP6L+yqlqPrZo6eThiFbVQYG5TS8C+CzG0Axlx4sAkCZgMgRCNwU77xMghgzJa9XRsABYGC/IXBsZ1qLLcUs2WCgEwdtJhFkH6YoO1yJGcMQ+8IJOQQq2WDtkoV2VQxSuTcOQfZc4WGgFFvovp52BCIt2p1O/qaVUujU826dnTMF8Bc5jUphNuZtMO1GIcREmOD7KscRdAg4XawvGpn9SA7jW7Hm9kBBJ8ZXmD6MWM8GGSE2/FmkNtV/vDyoJ2fP4L7OepG3rSD8Px4glHxCsPxCpNFvgGy4uGyjXGXzwAAAABJRU5ErkJggg==",
+    "wiki_name": "Rune battleaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_battleaxe",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 48,
+        "attack_crush": 43,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 64,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "axes",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

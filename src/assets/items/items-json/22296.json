@@ -1,0 +1,94 @@
+{
+    "id": 22296,
+    "name": "Staff of light",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22297,
+    "linked_id_placeholder": 22298,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000005,
+    "lowalch": 400002,
+    "highalch": 600003,
+    "weight": 1.5,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2018-02-08",
+    "duplicate": false,
+    "examine": "A ghastly weapon with evil origins combined with a holy light.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABO0lEQVR4XmNgGAWDBjD+RxcZQMD4f3JHx/9B4ijG/0tmzgA7xkBBAYzRVdARMP6f1tM9eBzT2VD/f+6kSXAHoaugI2D8X11UNBiiCpRoGf+7Ojj8X7NgwcA7ZkZfL9gRq+fP/79izuyBjirG//VlZf8DCnr+z54wYSBDBxJNU7s6/8c2L/m/acXygXXM0hab/z35Rv8fbAr8H1Y5cyAdAwOM/ysTtP4fm+cxeBzzfEf4/5MLEA5CV0VHwPj/5YE8sEMGReg8efgQxSED5BhIaIT4+g6OUIkODf2flZQ0GBwDAoz/SwO0Bo9jGsL0Bo9jBlXI5HupDR7HpLupDB7HJDgoDR7HhFjKDh7HeBlJDR7H2GiIDhbHgADj/1eHSuEOQpelM2D8v6HH/v/rwxWDxUEgMCiaEahgoB0DAHFa87HNEyH5AAAAAElFTkSuQmCC",
+    "wiki_name": "Staff of light",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_light",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Staff_of_light",
+    "equipment": {
+        "attack_stab": 55,
+        "attack_slash": 70,
+        "attack_crush": 0,
+        "attack_magic": 17,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 3,
+        "defence_magic": 17,
+        "defence_ranged": 0,
+        "melee_strength": 72,
+        "ranged_strength": 0,
+        "magic_damage": 15,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 75,
+            "attack": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bladed_staves",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

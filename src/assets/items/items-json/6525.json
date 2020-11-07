@@ -1,0 +1,86 @@
+{
+    "id": 6525,
+    "name": "Toktz-xil-ek",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6537,
+    "linked_id_placeholder": 18256,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 25000,
+    "lowalch": 10000,
+    "highalch": 15000,
+    "weight": 0.453,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2005-09-19",
+    "duplicate": false,
+    "examine": "A large knife of obsidian.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABF0lEQVR4Xu3TsQrCMBAG4OYBHHyD0qFD6ZDFQRCcHBQEEfFZfAA3QXATHARfNPUIZ5JLIg7mkqE/HJTC0a9/m6oaU0SEoncyRqhZ16lCUBoj21b1TZMbJdS87x1QW9c5UPBAoRZSOiC8L98oGLqVKLoVxCDIhjBg9JuHMDCMrWgENIAPtzGMn8hAQhgKSYjxG7EHQEwQiNsIXuPQVuj2n+O2ggg4ynicmVqB6JMTw5yWkw+IbiZIGBNrh24nyO8gupkgLiYEum2nXCAfEwJd1hlBNgbnvGL5oX1MCHTdmHayg+47NgzkO+h5KACDIGYMJA4CzGPPdqowPuh1NBDmdiAuCD+RDWHEQDQIWskMsVMMxKQYyJhIBophi1sWGk/9AAAAAElFTkSuQmCC",
+    "wiki_name": "Toktz-xil-ek",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Toktz-xil-ek",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Toktz-xil-ek",
+    "equipment": {
+        "attack_stab": 16,
+        "attack_slash": 48,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 39,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

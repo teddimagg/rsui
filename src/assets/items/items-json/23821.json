@@ -1,0 +1,84 @@
+{
+    "id": 23821,
+    "name": "Corrupted axe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 0.907,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A very powerful axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACkElEQVR4Xt2XXWvTUBzGey6FEdrSQukM1FFk1rnF2lqNLZYFSzfaYssoZXNDhs4LmS/MNxRRcWOIyhSpDBWLb1fihR/Cez+CN+LHeMxzata0diKYJcUH/iQ5SXN+PM8/OanP939JoHfEQwl8i5YwIFACXyIGmsEkXgfTXkMJfAzrWPMfwDP/QWwGD6EVPOwVlMBmIIVbyj488I9Lh1gvgim82Raq35hjEmgF0ritJPDQP4ENvybr+S8o7rcBOkUXdwhKoBlI4kM4gzvKfjw2geiSBcaJGZ01bl3zygTlb7VYzEkogacBDS/NuK4po7ivjGHd7CFry34iGPcZpwXzKXQM70KZnQFi79CdG+aEBLhnTsroWBwjyPJQHEtDe7CqptFUdbR252xPoVX/rHZUbwMZ6Y7lALc87u2Z2V0qVofT2Bg+IqN7H2pvrWgdgBIyKj7qhGDZARiFVTy+GJnAzWgSV5S9eGL2FV2jm4yXcA7EJ6Q7n8PZvhCdmwuMJRI4ruuoTk9vXUsXGSld+qFWnACifgfpPR8fGZEwpULBNqmQDjHir5ECvkfLTgH5fP1BKIGYqkqYomF0gVvn7bX9fRyRQDQSwdFUCpO5XI87Hdmd7T3nsATSmvYHd1yVQCIexYl8XrrjMQwlkM8kcLZu4OqZk32jclkCtYL55l6qDoY79SkdizOTgwGTTY1KoAvz7ReghzCUkM6wdwbCHUMf72piT2GKOU3GtL4y53ZU3a97VsVIy765u1x32x2xtWKfquSwslhGo5SV+wvVvNswVAdo7fKsdIQNfK5RwPm5ottRUUIullybZsplPLq+gEunrX+orrtDtT+0uD5Vpopo1GpdIC7DWHL1G+bvZHfETZifv07js/SxQSsAAAAASUVORK5CYII=",
+    "wiki_name": "Corrupted axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_axe",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": 4,
+        "attack_crush": 4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axes",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

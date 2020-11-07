@@ -1,0 +1,77 @@
+{
+    "id": 87,
+    "name": "Ghost",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2001-01-04",
+    "combat_level": 19,
+    "size": 1,
+    "hitpoints": 25,
+    "max_hit": 2,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "ghost"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 25.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
+    "duplicate": true,
+    "examine": "Eeek! A ghost!",
+    "icon": null,
+    "wiki_name": "Ghost (Level 19)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ghost#Level_19",
+    "attack_level": 13,
+    "strength_level": 13,
+    "defence_level": 18,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 5,
+    "defence_slash": 5,
+    "defence_crush": 5,
+    "defence_magic": -5,
+    "defence_ranged": 5,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.14285714285714285,
+            "drop_requirements": null
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.011111111111111112,
+            "drop_requirements": null
+        }
+    ]
+}

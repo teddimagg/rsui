@@ -1,0 +1,79 @@
+{
+    "id": 804,
+    "name": "Adamant thrownaxe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14470,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 176,
+    "lowalch": 70,
+    "highalch": 105,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2004-01-21",
+    "duplicate": false,
+    "examine": "A finely balanced throwing axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4XtWVv2vCQBTHc2OGDF2dxEGKZAilGSIKoigqKipiwf5AikU6FDp06NChW4f+0a99ub7cu1OjTRNjv/AGzd3L577fl8Sy/rcEyDoJCXADFyp+5RSgBHg1L4Qpe+UQyCsW84CSESEMuVNyS3kBCfBbPlw0LjV3cgISEHSCEMh0p1guQqFU+JmjbZW6BFT71cgdhKFCKHIK63nmwKpvw7xhQ9e3wT+3dkAlhhVQH9bDQigsdIoKIQkU62niwLJrw6RuQ9OzoOZKID1O2RN7JYCSmxuTRlQmIEG+XDnwOLLhumXDIODu6MX3b8LulWpAYM1ZMywT0IyL76O95mESAXEnTLD2vB0BanF9/6Ybm2CpAnEwHgOPa3g/gt5NL4RFcHMf/50IiA8xNaFGspnQ4pqupzBejWFwN4DOorsBlSoQByGY14WjxYX/IRQ6RVAUIR0Ki/cz7xoj+XbG0l1R13lc9JhjoUsciiLcdkDV7yCZEenXeFz6OgWFM0VOUYR/ALKsXTDoDsW1CS0ih0wgGm6C0vsmlnSH4to8rQQiGHpFEEy887+WGmaMa3tjEblDMOiOCZICDEoNM4/LXMOjygiEpIZ5uztyDcJkDIJSw8yBzFVSmYKgBLwvnWiYd7ujFHctBQl4uz3Uncwl4OPBiYb5EHcylorrJNz5XJ+FcaE79BHNFYjiin/Ujyqx50WYi1L9/qSjY8N8Abc7kvLaEcbAAAAAAElFTkSuQmCC",
+    "wiki_name": "Adamant thrownaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_thrownaxe",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Adamant_thrownaxe",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 17,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 23,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

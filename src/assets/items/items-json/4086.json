@@ -1,0 +1,77 @@
+{
+    "id": 4086,
+    "name": "Trollweiss",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16419,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5,
+    "lowalch": 2,
+    "highalch": 3,
+    "weight": 0.028,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2005-01-05",
+    "duplicate": false,
+    "examine": "These are very rare flowers with a pungent odour.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADqUlEQVR4Xu2W204TURSGmTfhEbzxAhISo4EYEm8IqQkRQyBAhAbESuVMsZRzbQFbgQqUg1ChUCmHppZDACkIihJijE+z9F/DnpmWYqxTwAtXsjIze/bM+vqvf+9pWtr/+OuQSM5/IiSyLX2gjmD0N1BXBiwxCLJrZf+saHxxid4fnnDGj5+fqztkICjUu3ZALb4INb0JUa3HrxSLHJ1S+OArrUaP+fpGejofX69sKZlCKLVd9tBHag/skGVunZpnw1Q/EeRCAmZp9xMt733msZnIHk2Gd2lsbZtTBdUdsgpbx98oevqD1UBRwDwZ8ikqBXaOyL91wG3bPfmuXAuwFAFJVOOepRLbIC1sH7ICogBUAlRedSMNLW2QN7TN9wC7tv+FFcM80S7A6ASSuCiAiq1OfrEnuEmuQIQGF8L0zLvE9ysdY+TwLVPfdIDmNvdZFRx961EGxDMp8pBEbf5NbguAULB7wk+d3jnOPp9NaZdIqISEZwDifhfhc4ylDApZYfdQkcVBBpOFW4SxWvtjGgj0abwhsXrI/vkQ2WeC1DO1GAOckrY1TK1ye+CXwqZuBoOncK/ZXacBkudb3F6qdwyTbdTHrUR7UwCj/ip4BD4S50anl6pd08qYdbT5bK78HFSxeWZYKbQLxoaf1DlJh0TlvSNcHOfwEPwAs5rHAlTW9Uq5hzQ+LyOb16JcA8T5dpXPhbHrnCZFpfhqfxCSUhS7MfwAc8KUKGYamaeqgUlNAdlPL+Y6FSiRGXdu0sOaAobWAYRQX4rVBRD4AasM7Yg1szy/yWVWxlS/SFRgNFBZY7GiUmydpEIGwhIHiHVkmpc/lIOp3atOjRry/Nbh+gRFJSo2F1JV+yM9KklsXhTHkgcIVpgAKu1wsZk9ERe9DNoVMLSmfbwlDkqirNxMqmgt1aOSvPfA3CgOEJEAwnhmTgYVmR6Qc7GHhkL9fMRzpp4q6pxqOweFttV0GfWphNYAAiZHAk6oITK3IIcaBp/S+MYQuZYdPAYlHP5uDZREt+5lcdt0qISILS5+Xbxxkfcr8qlnxsZthOkTbZowOFZk7HiSEQ+Q6EUC7K4hm1uGFsIzbR75M6NVqtpWqVelZEIubijPY9PDM9g01dUnUXb+bTI7ai5YkZcQ2jZCJRTvnrYqexcSq1Hn7p18aMGE6VUAeUysuvhnLzl+fRubS5QWaU0urq9MJTVkM8f+M1AXjHbmFcZFm+a1hrxpqn9//4m4Vu8kjmRgfgJYocaOKlvFMgAAAABJRU5ErkJggg==",
+    "wiki_name": "Trollweiss",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Trollweiss",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

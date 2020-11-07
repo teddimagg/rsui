@@ -1,0 +1,77 @@
+{
+    "id": 22844,
+    "name": "Pearl fly fishing rod",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22845,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120,
+    "lowalch": 48,
+    "highalch": 72,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-01-10",
+    "duplicate": false,
+    "examine": "Useful for catching salmon or trout while looking a little bit fancy.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABc0lEQVR4Xu2Wy0rDQBSGex4hi2wKQsgii5JFEFwktBCEBlOM2IUWSutCBBFBd935Bu60Ii2lXorYR/Dpfkkmd+MFdDKz8INhMpMJ5+OcE5JG4x+pIJR3BBGKEKbXk2gWKMaCt1pbqcj4dIKb9VvdUiz443SO1f0Swd5xtLY0LZqDYX7NHSbyfLfIlYcFzwQIiqrWkSUmE468RFEmO1u9/2cwmeXtrCIj1Xx3/xdQoUQ/keEIfciKUJlmU5chKyGE9WIFVd1IhconaoTwOn+Sp2ckkWECL7OHVEZVlPi6dthrXSUjIEMUfY8SGRa8KFR+giOsREnPFLNRXnPnKxlGec0RQrd7CF03oWmGiNLkYTLJ8HaGME07bubaIXjbNtq2BcOw4PujSOizknGGcHK0j57noNMJ4Lr9OCtCZEIIl2cD9HdduO1NOE5PpExC9ssphczV+UFBRKjMaODjYpyVqXyiRihq4nBIUKYEKXqmiFQyMvEOM4Ijk1/2Ww8AAAAASUVORK5CYII=",
+    "wiki_name": "Pearl fly fishing rod",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Pearl_fly_fishing_rod",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

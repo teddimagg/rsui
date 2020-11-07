@@ -1,0 +1,79 @@
+{
+    "id": 837,
+    "name": "Crossbow",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 838,
+    "linked_id_placeholder": 14500,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 70,
+    "lowalch": 28,
+    "highalch": 42,
+    "weight": 8.0,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "This fires crossbow bolts.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACFElEQVR4Xu2W7UvCUBjFdz/20Q+BCMEIGRIhEkoYiyJBMioieiMxLIKgIgp6ISqKSqII6j9+8tz1eOd1m6azhXTgIOK8+3nuea4zjMGXIOXIJai8lKX56ZT0H4ATtFZMS5hC3qLJ9AhNjCWkI4IStFnKNIBmckmyJ0YlGD7LmOZvQgm63C9QZSXXAsQwvw50e1ik3dVJWpwdawBFBAMJejwp0f56XvZIB9Kv7rME3R/P09vFMh2VbdkjAEWaTu10QcJgy3jSIkoHEnSwOSULvVIYDysd9yH2M2O7cCCizCEVWZCdNGgkZlDtersrozcYcT4Ee4BhCcqZDpSeQJAxWZxQSOmwnJSsuAPEiwYZ151VZ2R/UGb3Iaiv3oUEzVkGpRMKSL+iWYJOKtPy3EE6KPPT1RY9nG98pxeK9G0LkpCpoDvuMocMpVIKhvIfc4bqLOWO5HQpGMo7HQWgoJq/17UUFJdcLa7S4f8shnEDfT7v9Q9K2lRgKDI/9/g/6wj6eKz2BwpFh+1U/bX+nk/l9s86gt4fdnyAu5YDxcZDGIqM3own4x3cTNDrXaWRrnJPcqYPBhDSwVaZiZjHjbz9clMmC4My7DgUKPxNMBC2C1MI40ZeRu+wxdjqxeyQvNY9vcHJtpUCwpZJkLi3eRC4e2x3Yv69+5HUgvrNg6xDhATjSC3W2hM/hw7hJ/0XB1n/7r8GRl+bTzVgrgyNWgAAAABJRU5ErkJggg==",
+    "wiki_name": "Crossbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crossbow",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Crossbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 6,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "crossbows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

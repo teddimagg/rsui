@@ -1,0 +1,80 @@
+{
+    "id": 9050,
+    "name": "Pharaoh's sceptre",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 9051,
+    "linked_id_placeholder": 21446,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 83334,
+    "lowalch": 33333,
+    "highalch": 50000,
+    "weight": 2.0,
+    "buy_limit": 10000,
+    "quest_item": false,
+    "release_date": "2006-07-17",
+    "duplicate": false,
+    "examine": "This sceptre has no remaining charges.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEklEQVR4Xu2W30tTYRzG916ei3Oxi8E4MDiMIUMO4xAnRmIkXUQDJzimi7ViMDM0l4uFDgyVuTEESRZZhLBVBEEwBJHqSpDoygq6UxldJBqIN9Uf8HTe90WZa955zuvFHvje7ez98Hx/Ohxt2S6CkyFUBIYm4UpQRqjHiVjYJRKOoNeQMJ1RUZzw4knehzdlPx7fcyIXl7FU8NkJRdDtdyAdklFOOVH/FsT2lyA21w2U7sgY7JGwPN/BgHRVtQOKIDvswdunndh6rTSliQd1y1YgWi+LMzwt/FGCq5oDSdOdXIQ7ZysQLeLJUc+xIyMJBdUF7sr/Yal4ujIpBWNJhYEM3XAjOeBGwSzmRpBRQ0elL2Q1FMHdmA/Rax6M3+rA/EMd1SU/pidUlqr+oISptId1XcYto6RwSAtTR5AIq8hnVfZo8YGOV8/9WCh4W6SKB4WxFOimU8LHWgDfP1/E3P0Ac6jx4VbR/C9nJMJc+fRBt9uFViJs2H3dME51o/kLC8UHHZ3GgtxoFEHtRSd+7XSJhuG18f5lAL93r4uHuXRBxmpFw9/9YfEwkZCLwfzZi4uHoatgZVkz09QrHoaOfAbz87J4GLq5aTcd/ug+PzAHdaGtzduanhLvngmfMwT95oIccUl4ZJ4HgmGo+MaeNWHW4lHRMFTcoZx5QG0O3T4Gav6VzRJ6OrTWEci5gGnrFP0DENSE8K/l51QAAAAASUVORK5CYII=",
+    "wiki_name": "Pharaoh's sceptre (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Pharaoh's_sceptre#Uncharged",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Pharaoh's_sceptre",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 25,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 32,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 30,
+            "magic": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "polestaves",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

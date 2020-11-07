@@ -1,0 +1,79 @@
+{
+    "id": 806,
+    "name": "Bronze dart",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14518,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A deadly throwing dart with a bronze tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4Xu2Vv0vDQBTH7403ZMgQCIVCKEGKlFIkUJSKoEuGDHbp0sXBxUFwcHBwcBAc/KOf9+7l7OV0cGju3uAXvgTy4/jwfd+7KPWvZAIM7yQU4E0zRUFQBAK4qirr8GlkAV6tOB0RMO2aIASlc76YyEnHFVlAOoDdxQybeSknHb/IiYG4yMu6kJAOj8ovcnIgKvK8ymWkQ6Pyi5wAiH8J5NvL2hZ5NslSpQP4Oc3x3QC8GW/PNG5qlSodwI8e5NV412i8PlHYZTpFOmBTIRDyfq2xPWWgbW6uGacUfjWS4DuVl5LdLRmITEBtvJRgAPJc8qgIhKDuDMzOmMa20aOnBAMQ8lOfjrMPNHKxGcYHIdOu8n1faNwHQOFKR9ThvHGmcTk/FllsIKXcCA6jALvDyJRYdKDfxWkR0EMP5LZ9IiDSEGjkQv9V8AMofCOywBZbEBAJ7FkkCIgkoj9DHRvmC+BdGgbjBzTzAAAAAElFTkSuQmCC",
+    "wiki_name": "Bronze dart (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dart#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Bronze_dart",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 3,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 1,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

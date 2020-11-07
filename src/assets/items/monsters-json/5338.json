@@ -1,0 +1,128 @@
+{
+    "id": 5338,
+    "name": "Cave goblin miner",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2005-05-31",
+    "combat_level": 11,
+    "size": 1,
+    "hitpoints": 10,
+    "max_hit": 2,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "goblin"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 10.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": true,
+    "examine": "He's working away.",
+    "icon": null,
+    "wiki_name": "Cave goblin miner",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cave_goblin_miner",
+    "attack_level": 10,
+    "strength_level": 12,
+    "defence_level": 7,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 5013,
+            "name": "Mining helmet",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "6",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 440,
+            "name": "Iron ore",
+            "members": true,
+            "quantity": "7",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 590,
+            "name": "Tinderbox",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 440,
+            "name": "Iron ore",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.1171875,
+            "drop_requirements": null
+        },
+        {
+            "id": 442,
+            "name": "Silver ore",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 7905,
+            "name": "Cave goblin skull",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "drop_requirements": null
+        }
+    ]
+}

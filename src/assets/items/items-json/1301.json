@@ -1,0 +1,86 @@
+{
+    "id": 1301,
+    "name": "Adamant longsword",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1302,
+    "linked_id_placeholder": 14742,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 3200,
+    "lowalch": 1280,
+    "highalch": 1920,
+    "weight": 2.041,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A razor sharp longsword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABnElEQVR4XuWWP0tCYRjFfcc7ODhcuDg5OYiDRA5KkhiKhoaKNEQ0RCD1BQpqjdaC2iMq2qKIGqKi1iiKlij6LCfPc3vzT9R4H6EDD/cOF/xxznne11Dof8rAH3X5IJlSBsXpojaUQXoijUKrgNr8lMCkYjGZwS8DkA9TmimjtdRCZbbyDTT4ZQDq/PBYSpxptpsyiu4YJDNJ5Bt51BfqAsOnkjsGiXQC2cksqnPVHzAqQNwm9mUoYFhirjZB1GFsibne6jAsca6Wk96ow8RTcSkxzxvCEEppo6julcColE9jg5H8qPSGrqjDsMTsDVdcHcYefjYqVRiWmL2xUSnCUP7hx3uKUQ3FDW5XXMEd+5fTHx5+ilEZrCyHsbcbwcmxKyXujSpgGMqgXHL6oG6uPYnKOhYgDGXQaDhYbDtYW+2Herj38PYa/QILVB2XEh2ocQc72xEc7HeBVCIjxNWlh4/3KI4OXXm/u/XkqRLZ1mYEZ6cunh59gN4J3J2N9bC48vIclZh6IQKGsTK4OHclIgVHfpNKPH9rqGA09QnklXeSS3zDHgAAAABJRU5ErkJggg==",
+    "wiki_name": "Adamant longsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_longsword",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Adamant_longsword",
+    "equipment": {
+        "attack_stab": 20,
+        "attack_slash": 29,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 31,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

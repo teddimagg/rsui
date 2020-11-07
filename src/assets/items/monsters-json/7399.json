@@ -1,0 +1,247 @@
+{
+    "id": 7399,
+    "name": "Vitreous Jelly",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2016-09-15",
+    "combat_level": 206,
+    "size": 2,
+    "hitpoints": 190,
+    "max_hit": 17,
+    "attack_type": [
+        "melee",
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [],
+    "category": [
+        "jelly"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 52,
+    "slayer_xp": 1900.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar"
+    ],
+    "duplicate": false,
+    "examine": "I don't think you're ready for this jelly.",
+    "icon": null,
+    "wiki_name": "Vitreous Jelly",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vitreous_Jelly",
+    "attack_level": 170,
+    "strength_level": 150,
+    "defence_level": 220,
+    "magic_level": 150,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 1365,
+            "name": "Steel battleaxe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0859375,
+            "drop_requirements": null
+        },
+        {
+            "id": 1311,
+            "name": "Steel 2h sword",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0546875,
+            "drop_requirements": null
+        },
+        {
+            "id": 1353,
+            "name": "Steel axe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 1197,
+            "name": "Mithril kiteshield",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 4127,
+            "name": "Mithril boots",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1163,
+            "name": "Rune full helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "102",
+            "noted": false,
+            "rarity": 0.3046875,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "44",
+            "noted": false,
+            "rarity": 0.234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "220",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "11",
+            "noted": false,
+            "rarity": 0.0546875,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "460",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": true,
+            "quantity": "15",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 2357,
+            "name": "Gold bar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1734,
+            "name": "Thread",
+            "members": true,
+            "quantity": "10",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2722,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015862944162436547,
+            "drop_requirements": null
+        },
+        {
+            "id": 20730,
+            "name": "Mist battlestaff",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00345915430595528,
+            "drop_requirements": "superior-only"
+        },
+        {
+            "id": 20736,
+            "name": "Dust battlestaff",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00345915430595528,
+            "drop_requirements": "superior-only"
+        },
+        {
+            "id": 21270,
+            "name": "Eternal gem",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0011530514353184267,
+            "drop_requirements": "superior-only"
+        },
+        {
+            "id": 20724,
+            "name": "Imbued heart",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0011530514353184267,
+            "drop_requirements": "superior-only"
+        }
+    ]
+}

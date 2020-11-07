@@ -1,0 +1,86 @@
+{
+    "id": 1434,
+    "name": "Dragon mace",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1435,
+    "linked_id_placeholder": 14675,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50000,
+    "lowalch": 20000,
+    "highalch": 30000,
+    "weight": 1.814,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2004-02-25",
+    "duplicate": false,
+    "examine": "A spiky mace.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4Xu2UQUvDQBCFM8cccuhBEEHoL5BcvHkoglDBCoK10FqptVZqVQp68OhB8ODJXzxmss7uZDcBrRsTMA/eIUO78+XNbIKg0f8VoF2pUIAvWxHWCMoAxe121VCAO2FQJZA9lkqBAJ837V1R4zI75AK7Na+SUCYdBtqPAgEG2I3CshdeATGUBCKYt6/mDCJHWeI4DZQEet9uZUBsIPsUT1KjYCDySrgIxjOQ2YmzVqi9J9IhmKMknTx73h/Ap6RZngmIxsS+34gy5tTkC3mCUwedJKlIIHp7hqGFZpCP5Pk1Sa3IXqDUDoAew9X5KIWQpmZ5MHZCnncK8HI4xJvJRF9zMgPxtc8DkLZPXVMK5vpijHezmQaSN45GxqmUACAFOB4MNAw92zCcCKdUEgjJwKwWC9Es+9U2aYC/5XWlYG6nU2cnGChbM/9za7+Sak636WE+zzT9buO82hpSIMeH3RTmcbksSMCoqO5BgLtxjAedDo76fScZ+9d/JMDTXi/9ztQAhmUvbw1UK5hGjX6gT2V3lSc5XKDnAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon mace",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_mace",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Dragon_mace",
+    "equipment": {
+        "attack_stab": 40,
+        "attack_slash": -2,
+        "attack_crush": 60,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 55,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spiked_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

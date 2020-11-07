@@ -1,0 +1,81 @@
+{
+    "id": 10147,
+    "name": "Red salamander",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 10161,
+    "linked_id_placeholder": 15367,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 150,
+    "lowalch": 60,
+    "highalch": 90,
+    "weight": 4.0,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "Slightly slimy but certainly striking.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMklEQVR4Xu2WoQoCQRCGb6Lhgk0E4RAxiIjF5gMYLBaLxWAxCAajwSDYfOVx/1vGOVcFgzersB8M3C0L9zH7z91lWSLxFxCHKxEhXnYa/CNSKjMuirLCHYb8oMyspULhDkOeZSIKJZkqGGMtkZk0sxi5IT4Pc566h8+dxOqFjLEQ8J3Z9XLedBulXEQZQLx1IhDa973UKPdSWmZ4GamDExIJXENQ5WqHym6g1oUXejwq7VANxxe2/lEGYUbJw2WXiHxdBq3XLzXxou0FIIN13KNCoZogPg1yPrqCBDIBERQkMO41Hs07NA8ySXJUVREjGYHunYEQQgw5o2MK8WOMd410BtdYj/AXSHwZ+QyhI5Id7YxpdgDxddwsgy35CX+4DGWE6mfAfKJeU52k6DKJxAfcAJDMAuxzQ6+QAAAAAElFTkSuQmCC",
+    "wiki_name": "Red salamander",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Red_salamander",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Red_salamander",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 37,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 47,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 49,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 60,
+            "attack": 60,
+            "magic": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "salamanders",
+        "stances": [
+            {
+                "combat_style": "scorch",
+                "attack_type": "slash",
+                "attack_style": null,
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "flare",
+                "attack_type": "ranged",
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": null
+            },
+            {
+                "combat_style": "blaze",
+                "attack_type": "magic",
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": null
+            }
+        ]
+    }
+}

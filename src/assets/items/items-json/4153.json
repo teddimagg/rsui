@@ -1,0 +1,79 @@
+{
+    "id": 4153,
+    "name": "Granite maul",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 4154,
+    "linked_id_placeholder": 14033,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50000,
+    "lowalch": 20000,
+    "highalch": 30000,
+    "weight": 4.535,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2005-01-26",
+    "duplicate": false,
+    "examine": "Simplicity is the best weapon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrUlEQVR4Xu3XXUsCQRQGYOcHdClIIIiIFyEiUYigIIqyLCUatYiamJ+kyyaainnhRQl1EYEViOBvPXVGZ1estm52nMAXhpVxl3k8nv2y2f5vCGzOcMz64viZQD5/QbfGPLcQ8Ptcq8UJXJVy0GiUoFa7hMOAX5/fPMqiENDqMhSUCAW029egqlUdVKnkIRwOgsfj5oFa/nIEDAYa9G5VHdRslnUQVkxR0nTfgAsraUkIXXw87sNo1KGgbqf1BYR9hJhs9sx60MP93Y8grApuUymJjkxGth60WEy/BWH/aFodYrEIJBJRkKQ4nMhJ60Gz2TNFMRDrpclkBLVinJ55rHcYxlLQ6/RRR2F1sFo4aIU+zzyG4oBhIfD+9gTz+Qv9i4bDNm1mVhFElQsxOPDur+a4hF30jGFUY0soBlgfxrdbQplniSrmouBxO3YokxBoVSUxUXgzdjrtO5RJBEZlz8PgsO/tUCYRFNUoJyElH1MQhxvxbyHQu0nTJ4R4lL0YbD0EuuopvXCGjrzioNhbzPqr1eZenGM0OY5Q0CcOKqcYz+JCNLpAmGWEwvw1H0AqiBm1Y6BYAAAAAElFTkSuQmCC",
+    "wiki_name": "Granite maul (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Granite_maul#Normal",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Granite_maul",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 81,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 79,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

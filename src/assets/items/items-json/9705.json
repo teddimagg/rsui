@@ -1,0 +1,77 @@
+{
+    "id": 9705,
+    "name": "Training bow",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18772,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-09-27",
+    "duplicate": false,
+    "examine": "Light and flexible, good for a beginner.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbUlEQVR4Xu2Wb0vDMBDGl2+yj+BHEIQhssEYOkXdGBtt0Y46GRNhCIKICIKCiKAgvvB7PnIN6ZpLK7KaxBd94F6E/Lkfd5dLGo1atbgEis2LBA4ntzgK7jCI7jE8ecAofsR4+uQDSqB3vMRma1gQHYGNZjM1vsuCpMMkDNHdX2jOufGdFiRBlLV3ZxkQX+lAOgzVzk4v8QG0SpEyGh+Mb3wA6SAKhqw/usZ2N3YJVA5D13pvcIVWJ3IBVJyilWOR9hpHQMVR0a+yBKIetNUObAL9DKPWEAzVT6c/twVkpqgMhp4HiozaY66prGIQ3ZEcU9/hc05gdEcyRdRzzLk/0+9TRK84h9HPqiwTJJ+mvHmByQNQs6P/DBUu1QvdJOo1CoifVlEmTDR/Q3j+iknynNaJAuGRshads+UXppefOF28ayBlAJYKWEkgvvhIo+IJgEtkMNy5IwAugWD2kgHxWU+yVqDr61/B1Kq1pr4BWrrNEU0Pch4AAAAASUVORK5CYII=",
+    "wiki_name": "Training bow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Training_bow",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 8,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

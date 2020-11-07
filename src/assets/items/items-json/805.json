@@ -1,0 +1,79 @@
+{
+    "id": 805,
+    "name": "Rune thrownaxe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14471,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 440,
+    "lowalch": 176,
+    "highalch": 264,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2004-01-21",
+    "duplicate": false,
+    "examine": "A finely balanced throwing axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4XtWVz0sCQRTHd4572EPXTtJBREJEWkJREIVYREMlTDJDKpEKS6hAqEO3Dv3RL95Mb3dm3PXHuuvaF95Bd+b5me/3jWsY/1sMRO2FGOQqdciWqvsAxSBfdThMxi5zoHwqlQSUiKhQb7rupAvFpIAYnDa6YDvnijtHuZMkgBiUWj0OpLuTyubgMJ39myO/ilwMyu2+4g4WQhEYuTW7sOC+YUKvaoJjm2BnjACo0LAMqr0bXpXuNS+Ew0LHyDWCnXYsGDkmdCom1PIGlI8FkBqn6Im9QkCJzbX+rVtBgG+XFjycmzCom9Asyu6oJe9dhF0pxjcSBALVB2NeOqAeF/2ovFc/TGggv+YIdTacuIByXPiZ3NP3ys6GAqJIZDA6HZUcV/vxHRp3zxwWAYL2hwbCwaWm1IQaiWZMiav78sGhmuMZOKMn7qa8n2C2AqKSQQhmfmUpceF3OhRF6He4jYHoWquueM/luOiaB0FhhH4H9PqtJT0i9Zkcl7ouGArd2QLIMIJg0B2KaxGaQWc6h9bk1QXCQafrL0OpfUNLuENxLZ6Wue7QrSOH5Fvqf9iN5Q0zxuXfmHF3EIbiQnd0kAhgUN4wy3Hpa+SoYgIhecPs745Yg+7EDILyhlkG0lcJxQqCYvA1stxhDnbH07JnEYjB53Bdd2IXg++x5Q7zOu7ELC+uvXDnZ3LA40J36CWaKBDFtfyq71RsxR9hIor0/RONdg3zC2b2sMiEf/9VAAAAAElFTkSuQmCC",
+    "wiki_name": "Rune thrownaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_thrownaxe",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Rune_thrownaxe",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 26,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 36,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

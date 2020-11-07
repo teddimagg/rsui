@@ -1,0 +1,87 @@
+{
+    "id": 11061,
+    "name": "Ancient mace",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11064,
+    "linked_id_placeholder": 17849,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 1.814,
+    "buy_limit": 8,
+    "quest_item": true,
+    "release_date": "2007-04-24",
+    "duplicate": false,
+    "examine": "It has ancient goblin symbols on it.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABl0lEQVR4XuWXb0sCQRDG3Q8iHBIiEnKEIUkSJIhJhklmaIaZGaaZGalpGUHRx56Y2XbvWnt7Owc9MO92uR/P/NuLRP6XBMgIhQS8TafwPp//QLHCSZjnhzGM+324abdhOZnATjrNASU0yKjXg2G3C1fnTbhsNAjGdRwK81ZAEjC7H8HT3RAeBwPtzm2nA0cHRQqLDklnMBQUuoNAh4UCwTRrNe2SeTsAeUAY6Mr1RUvDHJdKFJaA1mGwblr1+i8gizXkAWGa0JmzalXXjQlk3g5AHhDWzEm5TKHSZDldKAmkuum0UtGBYLKzrKVLSdDHsZMwEEa1uQKxCrOfy8FeNqvdYHIFJaiTdjOZNTdYYD5flpSibde1WbR/SdB+wonMmB4luc1x3phpMk9akICPxYJafDOZ5E/T1+qVtrjqKEZnUPJ5Yc4X85QlCQLBeZOIx/lTpYpYPUMZ3ZErAZ1xolF+GBx6xXweNmIxbhiUrBt/e7PC4Mb2rwRWGEyVuTDNU5Yk6KcuJJNYScBWKhUGd/wKFYwUB8w3S0Z+WP8peiIAAAAASUVORK5CYII=",
+    "wiki_name": "Ancient mace",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_mace",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Ancient_mace",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": -2,
+        "attack_crush": 16,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 3,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 15,
+            "prayer": 25
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spiked_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": 6599,
+    "name": "White halberd",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6600,
+    "linked_id_placeholder": 14314,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1920,
+    "lowalch": 768,
+    "highalch": 1152,
+    "weight": 3.175,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-10-17",
+    "duplicate": false,
+    "examine": "A white halberd.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABj0lEQVR4XtWWTUsCURSGPcsWs/AfuGzRYjazCBLCNiYRuCnIDMFSRDSzIFOhAhUi8gMUTCkJMpIoCNy4adEfe+Pe2+QH2XLu6YVhBu7APLzn4c51ueaGoC4WIRwnk4hHIhygVDNXF+fweb3y2fR4dEEROrUaLnM5CRLxL+gEIrz3++jW6yjl83JcpaiBoFdBzb7tQAjDwTN6zaYcVyaRQDAQQG7HgN/SAkUYvb3iqdtBrVxGIZvFwV4YlmkiFTRgLbqchiJ8DId46fXQrt6gXCzIljbX/RJkP+C4T4TP0Uh69NBqyZbOjjKI7oa+myFsrTo+OjW2wf2dbEnInY7FfoCE5Bp8Uh9/vG2jXqlIlyZbOtnW4JPyRAHYoxv7o8UnlUmw08P0RCtafBrHBhP3cSuEjWWNUCLTIyJUk26sLDns098hFMOGHp/mh+ROzqglEc2S/x6Cz2Tlk4jaIlj51Ei5+bV0HWcIJX7E7KDsPWp2RWPU6YAdFMuN0z6yzK5oDCG0xhBq+gjDIKxg/mW+ABY1BcUDVau4AAAAAElFTkSuQmCC",
+    "wiki_name": "White halberd",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_halberd",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:White_halberd",
+    "equipment": {
+        "attack_stab": 19,
+        "attack_slash": 25,
+        "attack_crush": 0,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": -1,
+        "defence_slash": 2,
+        "defence_crush": 3,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "2h",
+        "requirements": {
+            "attack": 10,
+            "strength": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "halberds",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

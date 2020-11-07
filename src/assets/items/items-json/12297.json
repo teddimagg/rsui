@@ -1,0 +1,86 @@
+{
+    "id": 12297,
+    "name": "Black pickaxe",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12298,
+    "linked_id_placeholder": 15889,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 145,
+    "lowalch": 58,
+    "highalch": 87,
+    "weight": 0.01,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "Used for mining.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABIElEQVR4Xu2WyQqDMBRF4ye4EEQQgoiISOmmu676//+Ucg2PDBqnRHyUHrh0INbTm0cbIX6LTLm5lUw9pFCvVqh3L9RnFFdL+d9+nqoslaxr1TaN6rtueu8pZWopfbMizzcDIZK6QGi/CKWr9JZBCGKmvWiOiSB1IaYZQkiIkkhsPiNrQTshIdrGaDHs/1ZwA7udkBBaxCMGPlpsHbcdxG7OFqLg9TgMV0gty/gNUnwpWut/agSukC1jrwrJmYFPQrgdf6WNL5dQSv9V+DJbQjYkdvS6Bdx28HxPOyHOXmcR305Czs3OhTBu52YZYNqJHeQEMG6HxSD/21nHCLFoh7YL52UW7ZAQg3aAPqIy+N0htBDCRAjowxSD7TKwkrmTLwKMceZe8ieyAAAAAElFTkSuQmCC",
+    "wiki_name": "Black pickaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_pickaxe",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Black_pickaxe",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": -2,
+        "attack_crush": 8,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 11,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxes",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

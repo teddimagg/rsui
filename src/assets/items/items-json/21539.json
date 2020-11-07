@@ -1,0 +1,77 @@
+{
+    "id": 21539,
+    "name": "Heat-proof vessel",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 4.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2017-09-07",
+    "duplicate": false,
+    "examine": "Prevents the water from evaporating!",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMElEQVR4XtXXT0tbQRSHYeebuHIdxCyUCkGJNGKKlZCWEIOk/gFRRNqKbQmCK/ddufCznvJO+N2cjLcqODfRgUNuzOXO4zlnJpOFhfc7gj2OuY1g9fqm7ewMbG/vpIg54YItLdUKzJevF7Y/uLJ+//tUzBAVbHf30LrdM+v1LiPm+OTWms2ubX3sWavVj1g+nwEqTGXl6OjGOp1T29joTGUJGFjuqxAVbG1t29bX2zEajc8RQiaYGAAYrvmMLPE3oqLeCgVEGDIhICWjXELw3kMp87fDUU5UKDCavP1pWMDICNe+sblneaURF4GAPKe2uJgDFeKEBA/3Tby6uhW3AV6B0U/EwcF1RHMP93OdFaQM+bIJx/ta7UORJTAsAJqeV5WNhZCpbOMeYsIUJhxBpsgEkwukxv/x86/9+n2fK0vjVcakTJiC/OrjlXJqvyJbwrBnZQPRI8rEUyiF7js7v7PR6CGWSyXLAqIcHkTQxD5o4DRY+mQGjJZ+dlCaJTIiAOUitJHSPzMDqclVJhA+BFK5hsM/+UBsch6k8FkCoeyUgWjwykE+S/8DUao3CWIHrxTkV5oHpU0tkA5vWUD6aijD+GVeBqKZKwX5vUcrTJGC2K0F0vkoK+i5HVooD6KZAWU/gvD1wUTPoZSlikGMcXPr/MOEZSChBNIZXJiMIMbkjCycyvNSUPrEV4/JfznBkTGV1MMEqig7j0cZzpdRv9FmgklHGW5umHQI8SYwucY/NO+Qrgzs6t4AAAAASUVORK5CYII=",
+    "wiki_name": "Heat-proof vessel",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Heat-proof_vessel",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

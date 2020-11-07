@@ -1,0 +1,86 @@
+{
+    "id": 22734,
+    "name": "Dragon hasta(p)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22735,
+    "linked_id_placeholder": 22736,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 62400,
+    "lowalch": 24960,
+    "highalch": 37440,
+    "weight": 2.267,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2019-01-10",
+    "duplicate": false,
+    "examine": "A poison-tipped, one-handed dragon hasta.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xu2WwUsCQRTGd4572MMehCUQlkUkPEQX8dIpQUw0TFJDC8wWw9QwKijo0EEoCLoJgYfAU5eCoP/va95smk553BkPfvBYdplhf3zvm+EZxkorLRLDfCnX7E8Zti0DgzUL9tiBPXJUQzHc8Z9P3EiaBu75+4tr4yMWEd82XVeUvDMEMVRsc649BEQwnxzmKWpPgeSdISlojx8xxfPGsfDMIb7igTOK3SEx5C0TWV4ERY6M3MAVLTDkCgHt8bYNOQhlpxf5rQBMiZiAaHNX9gsFHNdqaPxkiaCodfRUmJ/AHXLh5LCOs2YTp43GXLgVt4zhqFpF1/fx5v0N8GzJO0MQQ71cRr/d/hdEXh2yGA5KJVx2OvpBqCrFIq57XdX5kMWwHo8LZ24v+vphtlIpEWA5L/JKBWLIptPiWGvOC4lffLnc9G7RCkJFty9ddtphKC90ks5bLf0wlBc6SUsBk89kxO2rGSbIy+5OVhxr7TBXTjAm0DysHYZmGZqFaWZ5mJlbNMCQGPyog+FGTMy/NOlNgOSVisTwmPDwnkzg1bMx9rQDkbRNdos1gVgKmGXRN6KzQGXCGvtzAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon hasta (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_hasta#Poison",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Dragon_hasta(p)",
+    "equipment": {
+        "attack_stab": 55,
+        "attack_slash": 55,
+        "attack_crush": 55,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": -15,
+        "defence_slash": -15,
+        "defence_crush": -12,
+        "defence_magic": 0,
+        "defence_ranged": -15,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spears",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

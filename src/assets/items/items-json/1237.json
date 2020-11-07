@@ -1,0 +1,86 @@
+{
+    "id": 1237,
+    "name": "Bronze spear",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1238,
+    "linked_id_placeholder": 14768,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 26,
+    "lowalch": 10,
+    "highalch": 15,
+    "weight": 2.267,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A bronze tipped spear.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABE0lEQVR4XuWXMQvCMBCFm9EhQ1ZBKCKdHFxEKgiORTo4dBIEQcVBhI4ODg6CgyA4+HtPXsK1pT+gd+CDUEg7fLzv0tIo+q8Yau8IBSCG8vnQX9t3O46hYpnQejGqgCZxLAkVgLCyGUAUAL3PzgOl4740kKFv6eh5tHTbWkoGkTwQ2rnvLGXTXgUjBGToc3H02Fs6rBTAQNXr5LwqYRgkqEI7TVXtpzpKPcgqVGFueJCFYZAAhHZUqAIMBlmFKmjiYy4MgyhThXawVKjCzHA7wjBIaAdQKlRxO2Uh3o7xirgdYRgktAMgFaq4netGgSq8+NCOGlXcjgpV3I6azwO3owAGCScrT8VVNRN+iRW0U0cVjER+EW0NzwwSsyEAAAAASUVORK5CYII=",
+    "wiki_name": "Bronze spear (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_spear#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Bronze_spear",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 5,
+        "attack_crush": 5,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 6,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spears",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

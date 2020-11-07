@@ -1,0 +1,77 @@
+{
+    "id": 7445,
+    "name": "Rolling pin",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 7446,
+    "linked_id_placeholder": 14356,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 14400,
+    "lowalch": 5760,
+    "highalch": 8640,
+    "weight": 1.814,
+    "buy_limit": 50,
+    "quest_item": false,
+    "release_date": "2006-03-15",
+    "duplicate": false,
+    "examine": "That's how I roll!",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACM0lEQVR4XuXXy0tbQRQG8MzShYssAhIoiFxEgsilRILBUFEMGrREiQ98FLWpYn2V+Nb6Nr41QY1Vo0SxFksfUHDjX/fJOXKvuRZd6UzAA7O88GPOzPnm2myvswTul/ISCFdrCHic0DW7apTAZLOLQeV6DjRnFoP03FzZqPsWRUIFCPneoLTQAadDCUhge2kJ05EIejo6UBcImO1SABLYW1vD6uwMxocG8bGtFe+rq+B355jnhzCSQAKJjXXG0O70h8Nob2piUKnHkzmYd14v3hYVQcvLk3XDBA62NrE+P8eYwe5uxtDZIUxBfj4vSTskcLizzZiZkRHGdLa0WDDGbZOCOY7F/sOEamtR7vOh0OWyQF4cc7q7i83FBcZ86e3lG/UY5uHXz1wCqf19njVzY2MWTGVZGR9gqZjzRAKxaNSCaQwG1WC+Hx0ivrLCmOG+Pnz60M6YqooKFOu6XMyP5DHPmoWJCRPTXF+vBnN1kuRZszw1xRjKKMLU+P0ocbvlYn6lUjxrol+nMTrQz5jWhgY1mN9nZ0jG4xwJhPnc1WViJOeTwMW3Az4ztDOU3AZGQVgKXP+84lbRJKbhR+cmPSwlYqgEbv7+4UWvPXrfUCwY+SQZQyXw7/KSH1Q9NRrPHWoXRYISjPEgJ5DDbue5Q9c9fQo//OqFSvCO0IPcANmzbZzmClolMNp497sS9DotvyzGkoihuosGak/6D52BkIwxSphhqWBHHisl7Xm6MgqTCXULirwLm+Hv+IgAAAAASUVORK5CYII=",
+    "wiki_name": "Rolling pin",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rolling_pin",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Rolling_pin",
+    "equipment": {
+        "attack_stab": 20,
+        "attack_slash": -2,
+        "attack_crush": 39,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 36,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 4,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 12426,
+    "name": "3rd age longsword",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12427,
+    "linked_id_placeholder": 15961,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 150000,
+    "lowalch": 60000,
+    "highalch": 90000,
+    "weight": 1.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "A beautifully crafted sword forged by ancient blacksmiths.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4Xu2WvQrCQBCEcw+QUrARUgcRESy08XnsVETU+Ism/puAKJL0au0Lruydl4QgYrdbODAQkhQfc8vsGQZfCci+IZSAwPPgD/VdAgbtFpzWa15Q424XztsNL6hpr8cPajkcwmW/4wW1mozhejzwgjosFvygsA5C3+cFhfMUBQEvqFwhB5vZlAuUkDAIhc9ly+IBhcWpobJfCaSAsDhZQTmdjixOVlCYkjtyUlDaJFIpzfv9eNC1CeHUPJl5UzrZe6oeiI5TxEC4XnSjp6uBoB5UKpgQgqTnigBGSyXluy4UizW5YogbXUClVIpt21Vp8pS0MS08NvIbQjLECuz5uFOnlEiD3aIwBsz+QyABrWbzfeMs8IFCY4k26nUeUOm5IirLz2IF86te6mv1Uts2W6kAAAAASUVORK5CYII=",
+    "wiki_name": "3rd age longsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_longsword",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:3rd_age_longsword",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 72,
+        "attack_crush": 60,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 75,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 65
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "two-handed_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

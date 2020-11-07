@@ -1,0 +1,86 @@
+{
+    "id": 12389,
+    "name": "Gilded scimitar",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12390,
+    "linked_id_placeholder": 15835,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 25600,
+    "lowalch": 10240,
+    "highalch": 15360,
+    "weight": 1.814,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "Rune scimitar with gold plate.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4XuWWz0sCQRTHfUcPHvYwsAiBx47egugP8Oql/6JThwikApMIod+GVJhYxlJWSIIQiCAIQgRBBBIEXaJb/8Jr3wzjrrN7CndG6AuPZX/M8uF933szsdj/FKD6xJAIBHBwbPOr+lajBEh31+YwL2cCKJ1K6YYSIO1tNgYzrCVNAAHe5RmH6ezY2D/yYD4d7UCANxsMW1sezPOJB/N9O6MTKBzmrerB/DxoAwJ01hg2Cwwfiwx7BzY+lYVVBPR+KaC+GlosA6zn2KhuqIgpOzLCwCJsfcDaqhWwKiz8YB9XkUABnq9YAatUEIIkWDkKZJBtE7ROwKhW0byRQXD0XAXwh/rXP2ocxm8VgcisSJgIAPwKh6FsyKzQvZoV9S8TlOgoWcT+Fqcr3WvIilQQRg6/MBh19YQ1DkO2yA2ToDRaRPJg/N30WkmOzjeaLCIBtipea8t6oeGmwqgrIxLg5nIC63suUJWNdm5pk2YYEmA2E8fcUgLLBXeLKLnFfKG1eFUBLszGMJOOY3YujvvrFnYdY8dQEnCYxXkBRPb1G8aAgFs07CQ5jGxtQ3a5W0TRwt61O/hawdbWDkO1QtmhljdcMyTAUt7ird48ZTxLUwNEs2dwPyVAzmHwcKV+qVHBU576hXaZBvkF1zhJzKqZfDYAAAAASUVORK5CYII=",
+    "wiki_name": "Gilded scimitar",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_scimitar",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Gilded_scimitar",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": 45,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 44,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

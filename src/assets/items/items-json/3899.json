@@ -1,0 +1,84 @@
+{
+    "id": 3899,
+    "name": "Iron sickle",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 3900,
+    "linked_id_placeholder": 16664,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 15,
+    "lowalch": 6,
+    "highalch": 9,
+    "weight": 1.587,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2004-11-29",
+    "duplicate": false,
+    "examine": "Not as good as a pet frog.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4Xu2WzU8TURTFucsuuujCJUlXhBAWLkiIxEZCA8FGDBIQ01JSoWKQD2tFqAhSDI18KIUQDNGFK1es/AsPnvfypvOghDY8OrPwJDdtZjrzfnPuebfT1vZft5agfrVceuGDL9uoVio42d3Fj28H+Fmt4tfRUauhBJsrK1dqa3XVKwK2wC29wPuFBay9XcaHpUX1Wa8IuFfewtnh97sCE7yZmcFiPo/C/LyCWp6bs4rnTPH8p2IR26WSaqnjNgpeptN4NZ31Fnudy+Hp42GvngwNWcXzBKdbbOHXz5sK6H487gJKkJ2c9IAMzGB/PwYSCa8e9fXhQU+P+s4HoKOE//iuoJw63d9z5VLNIb8zXJgAtYwIuru61DHCzk5lrPbtrK+7cknwYmzsSpsIZBYw5Ydj8SGYL24ABp1jwoFLgvGREeWSH8gP4/+1H46t5oMQyuSJIb8llKig0iUT2utgbAni7e1enhhy5olQDloneJZKYTiZVNX4DXW7/XlyBEQJno+OqsA2fkNBZ0cHMhMTKk90iVlq/PobJVaYL5+tL30NXWKWuOOau/5GNZIfvwQPe3tVltg25sgxkN5Jl49dL1GzyQBxBDgHak42UPMO34n0tGeGAnaH0g5xfnHbhwCI0tOe0zo0QByohfEodmajCkpXoBJkkhEP6rx8L3xQfzYMVKBgNtTvtRj+VgJ3y4Y6K8ZUhQaqnIvitBDDRtYEPjD9e61JRJBPRVBKR3G8pF0KeCzYr70h+FupvfaGAqYZXQDX7h5zqOqusQAAAABJRU5ErkJggg==",
+    "wiki_name": "Iron sickle",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_sickle",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 1,
+        "defence_magic": 1,
+        "defence_ranged": 1,
+        "melee_strength": 1,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "id": 11998,
+    "name": "Smoke battlestaff",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11999,
+    "linked_id_placeholder": 14701,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 15500,
+    "lowalch": 6200,
+    "highalch": 9300,
+    "weight": 2.267,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2014-04-10",
+    "duplicate": false,
+    "examine": "It gives a 10% accuracy and damage bonus for spells on the standard spellbook.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xu2WsWoCQRCG3UZIo69gZSlHMEgkEFFOjGgwojFoDMSQwlSpfArtfIG0AR/g2pR5hCtsg60v8Odmlo17i1bxbq/wh8Hbddn5mJnd2VQqMgm8T6eg351Zk8DbZIJRvw/XdVGtVlEsFm1BCTx0u3geDhlguVxitVrB8zxb0ZIOe+025vM5fN/HZrPhMc1T1K7L5bigBM7SabQyGbiVCjtdr9ecPvqmOTXv5HJs5g5HlIzMz2KB73z+Lwqteh3jwYC/7zsdTqcCMnc4ogQug6I17famgZfHERq1Gu6aTQZTcBECCXwEKflkB7uipWi8Po0ZjKJEYx0mUqCv2QzbXs9wpp+onUUOQ6mglOxzpsam6TscWTI1+2AsSd43Csj8N2YJPkWJAqLTk6h0WYYJH1+9mM2VMUjgvFDgPkRH3HKqhNadY7vgDkngqlQKAehmro5YsmFajIauxMDI+rhwnFDhmqtiUtAos1mGOdQsY5a8edVz0zoMPb7JEgFDUaHXXQJglKxedvuVKJiTTvqHfgGUrT6JbJ0MPwAAAABJRU5ErkJggg==",
+    "wiki_name": "Smoke battlestaff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Smoke_battlestaff",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Smoke_battlestaff",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 28,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 35,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30,
+            "magic": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staves",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

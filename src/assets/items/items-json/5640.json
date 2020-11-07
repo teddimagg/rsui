@@ -1,0 +1,79 @@
+{
+    "id": 5640,
+    "name": "Adamant dart(p++)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14555,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 65,
+    "lowalch": 26,
+    "highalch": 39,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2005-07-11",
+    "duplicate": false,
+    "examine": "A deadly poisoned dart with an adamant tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4Xu2Wv0vDQBTH740ZbshwUAKFIuLgIKG0SEuGUKm0UgtZslRBxKWD4OCg4OAgdPCPfublevlxOjikd2/oF75LcoQP3++7uwhxlDcB2k88CvB+GyATKMD3nSxh4sGgtL3CsQCjk6gCst86FuD0ZsolHcDbxzWqvuKTzuR6wied5d2SSzq6qvHVmE8683yOoQp5pENVDdMRh3R0VWmW8kmHqoqT2Gc6dDdpU1V0CHpMB/C7H+IukvhVOBsGmJwKX+lABfJZOB8FODsTmIX6RncOY0A+Cm8uA1yc10AL6fQ3AyoQ8ltP4upCA5HzBpCDlKCCIL/2dFUEQlAPoQZaFUBJoGfJ/kKHghYI+WWfjvGTqoEOPNgapglCpl3VNAFtLCD7Sx2qPm+MqS5jAnQMJISpoK4Cyh1G9gL0t3RaBLTdA81kfTjaqx2pDXTggf6v4BeQvcKxAJ+V5AREgvJwZAREYjE/bXUN8wNFyiPzN55wgQAAAABJRU5ErkJggg==",
+    "wiki_name": "Adamant dart (Poison++)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_dart#Poison++",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Adamant_dart(p++)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 11,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 10,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 5668,
+    "name": "Iron dagger(p+)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 5669,
+    "linked_id_placeholder": 14651,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 35,
+    "lowalch": 14,
+    "highalch": 21,
+    "weight": 0.453,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-07-11",
+    "duplicate": false,
+    "examine": "The blade is covered with poison.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4Xu3VMUvDQBQH8LwxQ4YMhSAIHRwcHDooAamLgjjYQRAXsQjWwdVVwS4i4qKLiCKKqCgOUhEdRN2kUBzEbyCI+Cn+cve45pK4+i6Df3iUpMP9eO9y53l/HkL2jaMoCGG5Gejf7L+CSSCm1HOlXHaBSkMcgwiL9TldhQJN12q6HIPSGLuqcVwckI0RBBUKo/I7qFAYR/tGJQ/6H1WSPEgYY1+QeYzwviGcnZb0gqayIPHu7GyHGtW6ZphDjAphdSXA3m6Ii3NGPT5ErjAqhPm6j+ZagIN9Rt3elPD8FKH9ElmjFA2hseBjYz3A0WGIq8sE1WlHeH/rkUYRRgc8TMU+tjbDLur+jlGfHwwSGh1hqM/D5KCP2RFfL6w2+ckxo8zIBPcSd2dmmDG8aHIEGIgYptrP3Vkat0GeJwwxIUxUfDTGEowwwA53x+wbxxgV0l/R91dvalSOwpjXDh98jrtD+ppQV4Q5iR1iTKh7xjjujp1CYTjSmB+2k58xTiedrwAAAABJRU5ErkJggg==",
+    "wiki_name": "Iron dagger (Poison+)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_dagger#Poison+",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Iron_dagger(p+)",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 3,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 4,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 13576,
+    "name": "Dragon warhammer",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 13577,
+    "linked_id_placeholder": 14728,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120000,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 2.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2016-01-21",
+    "duplicate": false,
+    "examine": "Spikey, close combat weapon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByUlEQVR4Xt2Vz0sCQRTH9x33sAcPgggLnjpGBzskSSIEJhEomKEZZSWYaUZGJQUdlA4dokN/72u/M427mdWl2Rn6wpdhf8D78L5vZhznf4pY2goRL7sOnyRdG6CIlxyHmwmXb1OeAFrJZExCEe8GMKMA5j7t8WNaQs3/FaOIDyNAkw+HMzVvrSKuBDD9pDcDihrvAYt/sGLONEIR+8HsKKBhKjSeYczVtueKSDFnMcwYiYJFT+4wZXQDMAABMGDQQQC9ZRI6uwQRrwdRIA4YACVPgmAFjNqFAIW1d2k1AIFRGDHC6JoCQncUzKuf4Gc/hi4pqEGnI4DQNazdpNyBAInGqrlLEPGw2+Xr/rkopoAQHeICGFZYwWgEIr7q9WYwspDchWqXPaXDgdYOMxmPP8GExeS1oqC+ftci4uP9Jp8etL6Zi/CUjgXmYTT6taB6v+jbH4p4s1DgvWr1R5iYRLyRy3GzVhPr4qhiE/FaNitgonNjFAgwR42GHTA7WyVu1etiZxmPCvMyD2MUCPeUNVEBBKfxzcXAZFThKQuQu8uhye4QF/N5rpTLYm5eplOTMEoSCkBn7bbJqKKSV4QF3YnKKhgpq2Di1jutNnDGtxK7uwAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon warhammer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_warhammer",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Dragon_warhammer",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 95,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

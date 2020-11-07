@@ -1,0 +1,87 @@
+{
+    "id": 1267,
+    "name": "Iron pickaxe",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1268,
+    "linked_id_placeholder": 14761,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 140,
+    "lowalch": 56,
+    "highalch": 84,
+    "weight": 2.267,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2003-05-27",
+    "duplicate": false,
+    "examine": "Used for mining.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu2WwWrCQBRFx4/opiBkUUoXRVxYRDFUFEWlCkoXhXYR6KK46/9vntwMj0wmk0SdCXmIFy4JITHHM48kSt1WOpRvq+lQL1L09qRo8qJo9qqahrL/fbGr+Zz2mw19HQ70+/OdHutHUWgofbPJcFjbWRynULv1iv6SJDSQBnkfjws3Luvzo14yWPpYLg173tEgZTCjwaDQ7oNKZwhlINgKCFackarCjgtoMZ2m/dxu/cGw/nXFDUw7LiDMFop9HnYvsOrk7aCmOQbi5ccWx/6Pxyag3DC2QS7PH7awx+fav+qRPJAJY57lgoM1PB4CWiq3Y59pxobDvAWC0q8KG6YOyAyDXXqdI3k72D/HTlmuvc6Iv52AuW52GoxgOy3DIJkd30EOEMF2RAzy3U51MiARdni58L0swg4DCbCD6E9UAc8djgZChQAh+mNKwHJlEQXTZk5CXJZwqerLNQAAAABJRU5ErkJggg==",
+    "wiki_name": "Iron pickaxe (Regular)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_pickaxe#Regular",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Iron_pickaxe",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": -2,
+        "attack_crush": 3,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "mining": 1,
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxes",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

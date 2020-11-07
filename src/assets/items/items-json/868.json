@@ -1,0 +1,79 @@
+{
+    "id": 868,
+    "name": "Rune knife",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14478,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 167,
+    "lowalch": 66,
+    "highalch": 100,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4XuWVW2vCQBCFnX/icx+KFEpADAQDJQ0qUVCDoljrBW8xIqEtpU/94afMhIQkhb6ZCfTAvoRd+PjO7KZW+18hFL8ohtDyfFQEitD2lwLTqNdlFXeUGMLTbJvaUYdxXwNYozkenZ42EKG7vQpQ1o4SEMHbRwJUATuE/uldgHgp2yEMzp8pkLKdPAxf82Z3hIblaAARhpcvAWKYzjqUqh7sjkZdv2GSqtTsZGHs6RqGOxCYe9PWA+Ir7iwOaVVZO6UD+dE3wt0O28UirUrJDodwPRywXy7Re3ZSO3dNSwOIEJ2OOK5WeJlM4Ng2WoYhIAp1Ed7OAYLNJrXTNs0cSIkwHJK5YTvT4VDsKFhJEs8N22Ggvuvm7BR33zhxVWyHgUaep2mH8HEJxQ4D8eyo2+FbVRk7XFViZzYeix01GK6K7SRARTvFEzdObCcBUraTJJ4fBlK2k038/vCrrGwnG5X/1N+pFEzZ+QEZOndIbiq5OwAAAABJRU5ErkJggg==",
+    "wiki_name": "Rune knife (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_knife#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Rune_knife",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 25,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 24,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

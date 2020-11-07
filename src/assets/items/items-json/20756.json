@@ -1,0 +1,79 @@
+{
+    "id": 20756,
+    "name": "Hill giant club",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20757,
+    "linked_id_placeholder": 20758,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 60000,
+    "lowalch": 24000,
+    "highalch": 36000,
+    "weight": 3.628,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2016-10-06",
+    "duplicate": false,
+    "examine": "A brutal weapon popular among giants.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu2WX0sCQRTFd75GT0tEiISIJGFsJEphsUlKLT6IUCFCRX+IIIigb37jzHCd0fFhX+aOxB447Ivgb8+9c2aTpNL/kSLrqDIQbw85fS6u6ef1NhaUAZnddGk+6dPTbBATSlGRH9P44ogmw8yD+nocSUMpynstbYaajk7ovujRYnq+hPp9L6SgFHU7depnDQ01PGvrxBjKTQq/baZpaChFndY+Ze2ahhqcNj0oNymBlBQdHuxqAwxpAYpHCDDsFaBe7i7p+3kcGsoCMZSbFoPxsiMpgX1ahYIBhbTYGCNGCKiP+ZXEPrntbOymBiMxhkJSgVNKEryxa/xhfW9nxUgLI8Syi0D5Mmk1aqk2p4a0sFdoc3EoTmuTAWVPXgSwdQOCq8FeMcJgvsz1w2ACtVBG5gpiMIECLSNTFShV9FaUhfdlqgLFipMYqRrWZasCY8QXQ/Rld6sCLY92F/7Q2ywXDCcQz8B3YDkxmO2vLdFWwVSqFFp/OR5XfCMcPpAAAAAASUVORK5CYII=",
+    "wiki_name": "Hill giant club",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Hill_giant_club",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Hill_giant_club",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": 50,
+        "attack_crush": 65,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 70,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

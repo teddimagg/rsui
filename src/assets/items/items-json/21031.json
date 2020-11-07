@@ -1,0 +1,86 @@
+{
+    "id": 21031,
+    "name": "Infernal harpoon",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 21032,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 99801,
+    "lowalch": 39920,
+    "highalch": 59880,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2017-01-05",
+    "duplicate": false,
+    "examine": "A very powerful, fiery harpoon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4XtWXT2uDQBDFd4578LAHQQqCSJGeRIoSEhoKCQQbkpJAyaWXHnrpodBP0i/QD/u6o65aL705mwcD/oP98d6sjkpdjwjTK4IiLE0Aj6AIZ6NRBrqDEgcjvFqgiy0G4xIGI7xZCIYagx16x2YX4T3UPRQDMYxzqkiSuaEIHxZoCsUlBMT6C+VKFOgzDBoorq+oPRbsIxY1IFzumGOrtJKFGlwhfMcGdXcuFB2rXbwFIFRFIQ2k1LA44eV4xF2WScY2FeH5qcZNFPkFVW+38tENIlxOJ2zWa79c4n66TVO/oM77PUJj/ILiJveqnzi6w27nl0scndt507tCaqPzbuc9LBY+NTk1Di3LcgQlDkZ4XK1wn+cNlCdgLQB/hDehQmUU8kB0jmLZn4XUzuSxRh1pZN1gJ/iuslNmFvRQsTwQy/UO4Scx/Y/C9KlZNZ42nUPCLg36D+YXvrviHiYjT1YAAAAASUVORK5CYII=",
+    "wiki_name": "Infernal harpoon (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Infernal_harpoon#Charged",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": 32,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

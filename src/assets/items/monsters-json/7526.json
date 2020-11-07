@@ -1,0 +1,116 @@
+{
+    "id": 7526,
+    "name": "Vanguard",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2017-01-05",
+    "combat_level": 0,
+    "size": 3,
+    "hitpoints": 180,
+    "max_hit": 22,
+    "attack_type": [
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "xerician"
+    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Formerly a member of Xeric's elite tactical unit.",
+    "icon": null,
+    "wiki_name": "Vanguard (Magic)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vanguard#Magic",
+    "attack_level": 150,
+    "strength_level": 150,
+    "defence_level": 160,
+    "magic_level": 150,
+    "ranged_level": 150,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 40,
+    "attack_ranged": 0,
+    "defence_stab": 315,
+    "defence_slash": 340,
+    "defence_crush": 400,
+    "defence_magic": 110,
+    "defence_ranged": 50,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 25,
+    "drops": [
+        {
+            "id": 20895,
+            "name": "Vanguard judgement",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 20924,
+            "name": "Elder (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 20936,
+            "name": "Twisted (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 20948,
+            "name": "Kodai (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 20984,
+            "name": "Xeric's aid (+)(4)",
+            "members": true,
+            "quantity": "1-2",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 20960,
+            "name": "Revitalisation (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.5,
+            "drop_requirements": null
+        },
+        {
+            "id": 20996,
+            "name": "Overload (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "drop_requirements": null
+        }
+    ]
+}

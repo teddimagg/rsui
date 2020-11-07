@@ -1,0 +1,112 @@
+{
+    "id": 3024,
+    "name": "Scorpion",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2001-01-04",
+    "combat_level": 14,
+    "size": 2,
+    "hitpoints": 17,
+    "max_hit": 2,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "scorpion"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 17.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "krystilia",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "An extremely vicious scorpion.",
+    "icon": null,
+    "wiki_name": "Scorpion (Level 14)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Scorpion#Level_14",
+    "attack_level": 11,
+    "strength_level": 12,
+    "defence_level": 11,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 5,
+    "defence_slash": 15,
+    "defence_crush": 15,
+    "defence_magic": 0,
+    "defence_ranged": 5,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 4569,
+            "name": "Book page 1",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1,
+            "drop_requirements": null
+        },
+        {
+            "id": 13459,
+            "name": "Ensouled scorpion head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "drop_requirements": null
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01,
+            "drop_requirements": null
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0007108330963889679,
+            "drop_requirements": "krystilia-task-only"
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.003257328990228013,
+            "drop_requirements": "krystilia-task-only"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": 5636,
+    "name": "Iron dart(p++)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14551,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2,
+    "lowalch": 0,
+    "highalch": 1,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2005-07-11",
+    "duplicate": false,
+    "examine": "A deadly poisoned dart with an iron tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4Xu2Wv0vDQBTH740ZbsgQCIVABnFwEBEhUFIsKUIoHZqhKTQWFF06CA4OCg4OQgf/6Gdervl1Ojikd2/wC98ldxwfvu/duwjxL2sC1L9YFOB25yATKMC3vaxgLsKwsr7DsADDIGiA9FXDAkxnMy7pAD7cFjjyfT7p3EynfNLZrtdc0lGlSiYTPunkyyV6rssjnWK1wuvxmEM6gPebDWbzOZ90qFRxFNlMh94mZSoVDUGL6QB+BS7uRxI/S2eXDsYnwlY60IB8lM6vHExOBWauetGNw9Qg76WLyMH0rAVKpdHfDGhAyK++xMW5AiLnHSADKUEDQX7xVakIhKDuXAW0KIFiR/WSfsKAgh4I+fmQTu1HrwU6cmMrmC4ImW5V1wRUaED6SQOqnTe1qVy1CdAwkBB1CdpSQHXDyFaAfpdKi4B2B6BEtsNR321IfaAjN/RfBT+A9B2GBfjkSU5AJKiGIyMgEov+6WtomG+yIyUxQRJW2AAAAABJRU5ErkJggg==",
+    "wiki_name": "Iron dart (Poison++)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_dart#Poison++",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Iron_dart(p++)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 4,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 3,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

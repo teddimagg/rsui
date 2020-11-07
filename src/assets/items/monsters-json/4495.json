@@ -1,0 +1,231 @@
+{
+    "id": 4495,
+    "name": "Skeleton fremennik",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-04-10",
+    "combat_level": 50,
+    "size": 1,
+    "hitpoints": 35,
+    "max_hit": 6,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 6,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "skeleton"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 35.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna",
+        "vannaka"
+    ],
+    "duplicate": true,
+    "examine": "He seems a little underweight.",
+    "icon": null,
+    "wiki_name": "Skeleton fremennik (Level 50)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_fremennik#Level_50",
+    "attack_level": 60,
+    "strength_level": 43,
+    "defence_level": 35,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 14,
+    "defence_slash": 18,
+    "defence_crush": 15,
+    "defence_magic": -4,
+    "defence_ranged": 15,
+    "attack_accuracy": 8,
+    "melee_strength": 13,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 1361,
+            "name": "Black axe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1141,
+            "name": "Steel med helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.046875,
+            "drop_requirements": null
+        },
+        {
+            "id": 1281,
+            "name": "Steel sword",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1329,
+            "name": "Mithril scimitar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 556,
+            "name": "Air rune",
+            "members": true,
+            "quantity": "60",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": true,
+            "quantity": "9",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 888,
+            "name": "Mithril arrow",
+            "members": true,
+            "quantity": "8",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 555,
+            "name": "Water rune",
+            "members": true,
+            "quantity": "20",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 564,
+            "name": "Cosmic rune",
+            "members": true,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "20",
+            "noted": false,
+            "rarity": 0.171875,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "50",
+            "noted": false,
+            "rarity": 0.0625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "80",
+            "noted": false,
+            "rarity": 0.1796875,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "90",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "185",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "200",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 2359,
+            "name": "Mithril bar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 6806,
+            "name": "Skeleton champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "drop_requirements": null
+        }
+    ]
+}

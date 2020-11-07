@@ -1,0 +1,111 @@
+{
+    "id": 3909,
+    "name": "Bear Cub",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-11-02",
+    "combat_level": 15,
+    "size": 1,
+    "hitpoints": 20,
+    "max_hit": 2,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "bear"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 20.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "Cute. But deadly.",
+    "icon": null,
+    "wiki_name": "Bear Cub (2)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bear_Cub#2",
+    "attack_level": 10,
+    "strength_level": 15,
+    "defence_level": 10,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 948,
+            "name": "Bear fur",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 2136,
+            "name": "Raw bear meat",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 7815,
+            "name": "Bear ribs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 13462,
+            "name": "Ensouled bear head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "drop_requirements": null
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.011111111111111112,
+            "drop_requirements": null
+        }
+    ]
+}

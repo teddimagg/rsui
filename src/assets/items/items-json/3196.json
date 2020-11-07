@@ -1,0 +1,80 @@
+{
+    "id": 3196,
+    "name": "Black halberd",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 3197,
+    "linked_id_placeholder": 14623,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1920,
+    "lowalch": 768,
+    "highalch": 1152,
+    "weight": 3.175,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2004-09-20",
+    "duplicate": false,
+    "examine": "A black halberd.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGUlEQVR4XtWWMQvCMBBGe6NDhw7uIg4ODl06KIpFEYrYoSAKiiAoOIibg4OjmyD4i0+uIcTGtmPufHA0kEIfl49rPK8SQFUiAJzFMY4HAwlSqjPLNMVOu52vw1aLSwqwGQR50XqfNDiFjIyux8HHbKSk7Lcd8CtEddv4mEQsUuVCVJfMx6jruZaqFqK949x5nuqFqFax86Mrl9JCFHKGPKmPV0ld1wx5Ujkpipn8sORJYYuZrrDkyaDF6Gm6ArjoM0oRxSMCfJ0DHPYc56kewPvO58lTNZBPckFdIphDXg7gJBSVJ0KNCFF5el++55UIAJ8ngVL0IxYnpWeUvcOIuh2IkxI5OPWVxd5hBHA7FShVvMIIQJTMX/IBKxPNFtgm1q4AAAAASUVORK5CYII=",
+    "wiki_name": "Black halberd",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_halberd",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Black_halberd",
+    "equipment": {
+        "attack_stab": 19,
+        "attack_slash": 25,
+        "attack_crush": 0,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": -1,
+        "defence_slash": 2,
+        "defence_crush": 3,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 10,
+            "strength": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "halberds",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

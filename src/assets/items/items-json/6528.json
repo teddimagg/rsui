@@ -1,0 +1,79 @@
+{
+    "id": 6528,
+    "name": "Tzhaar-ket-om",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6540,
+    "linked_id_placeholder": 18259,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50001,
+    "lowalch": 20000,
+    "highalch": 30000,
+    "weight": 3.628,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2005-09-19",
+    "duplicate": false,
+    "examine": "A maul of obsidian.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu2WbUsCURCFnX8hgbBISEjIEoYkSZIkJhommaEZZmYQ0f//NnFmmb1306/eWcQDB1/BhzPnzrVQOOpwRJy1qYg/Xuep32czSygSAHgxnYpPy2UBiqMoNBTxfDLJGDBGQMTPoxG/jMepo1JJbNAl4of7Hj8NhwKFR4VRIIzurFIJBUU86Hb5sd8X+zAYl45OgQKMjvi60ZCUfBgYo0NqeB4c6KbZ5JNiMTXe88cXFOiqXs/AKKS+BtBduy2JBegR8WUcpyBqHwifw0jsa7n0vrc3JT+AcSQjoS1A+KJWk65hg/+s1/uFcjAqB+iDnler3Ot0ZBUESstpd4ETqNtWSzqFtH43m3BQu0Vy6rRXuPu+V6uwaW0r2yss0M+3hW1a/3uFJZqbtHSEuH6QFrrlSm+iJBFA4W5Et3ASMUYzKB0heoXN7qdlPkIfCusB3TJNS6EwQpxCFN7o36cv1yvcjQpjCOR6lQsYX7mCOepg9Qc/3FhKYcxyEQAAAABJRU5ErkJggg==",
+    "wiki_name": "Tzhaar-ket-om",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tzhaar-ket-om",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Tzhaar-ket-om",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 80,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "strength": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

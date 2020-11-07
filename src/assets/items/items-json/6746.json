@@ -1,0 +1,84 @@
+{
+    "id": 6746,
+    "name": "Darklight",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16901,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 500,
+    "lowalch": 200,
+    "highalch": 300,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2005-11-14",
+    "duplicate": false,
+    "examine": "The magical sword 'Silverlight', enhanced with the blood of Agrith-Naar.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbUlEQVR4Xu2V0WrCQBBF3U/wISCFQAhBQpAQSoooSkOlYqUU/P+PGTuzHTNZt+1LdjbQXrjoQ8ge78xdZ7O/JQPWk5CBtsjJE4AawjRZRnafUpKFqQngH0aqh5FA7lNK8sNEArLVZpgqfYiZTg8ygXTuYSLujh9GCch3/UcDsgfvylJA9bfwdzCBgAykSQLFYkGHbZbLL6geSEIptWsIJUEkUD9W33hHlT1AQkkjECbXrSoaK37nP1T3TSPIwKZt4Xm7hdeug/fjES7nM4H95IB7ZKD8/MWrqrr5qWlgt17Dy34Pp8MBPt5OlJ50wD0yUOT5zXJUCIq+351g6aAMZGlKlm3i1DApCSDtvmlEDSuO1ebx4cgCjseVjR9bw83BdBjmsa5pwZWAbCpc42GV1faFZahJbHlDu3uiAIMyNBJeXBwNWmk0Ptm7B5uFVedqK6Xhk616Mp/TJ6YUMR3U8DKMPC6WepN+l3KTpq0r13SBaQsXsC8AAAAASUVORK5CYII=",
+    "wiki_name": "Darklight",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Darklight",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": 16,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 2,
+        "defence_ranged": 0,
+        "melee_strength": 13,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

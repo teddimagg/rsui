@@ -1,0 +1,286 @@
+{
+    "id": 4501,
+    "name": "Brine rat",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-04-10",
+    "combat_level": 70,
+    "size": 1,
+    "hitpoints": 50,
+    "max_hit": 9,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "brine rat",
+        "rat"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 47,
+    "slayer_xp": 50.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve"
+    ],
+    "duplicate": false,
+    "examine": "Eww, a bald rat!",
+    "icon": null,
+    "wiki_name": "Brine rat",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Brine_rat",
+    "attack_level": 70,
+    "strength_level": 79,
+    "defence_level": 40,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 2134,
+            "name": "Raw rat meat",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 11037,
+            "name": "Brine sabre",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.001953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": true,
+            "quantity": "7",
+            "noted": false,
+            "rarity": 0.140625,
+            "drop_requirements": null
+        },
+        {
+            "id": 556,
+            "name": "Air rune",
+            "members": true,
+            "quantity": "18",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": true,
+            "quantity": "10",
+            "noted": false,
+            "rarity": 0.046875,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": true,
+            "quantity": "18",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": true,
+            "quantity": "36",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 555,
+            "name": "Water rune",
+            "members": true,
+            "quantity": "10",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 555,
+            "name": "Water rune",
+            "members": true,
+            "quantity": "18",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 377,
+            "name": "Raw lobster",
+            "members": true,
+            "quantity": "10",
+            "noted": true,
+            "rarity": 0.046875,
+            "drop_requirements": null
+        },
+        {
+            "id": 383,
+            "name": "Raw shark",
+            "members": true,
+            "quantity": "3",
+            "noted": true,
+            "rarity": 0.046875,
+            "drop_requirements": null
+        },
+        {
+            "id": 2134,
+            "name": "Raw rat meat",
+            "members": true,
+            "quantity": "18",
+            "noted": true,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 349,
+            "name": "Raw pike",
+            "members": true,
+            "quantity": "18",
+            "noted": true,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 383,
+            "name": "Raw shark",
+            "members": true,
+            "quantity": "8",
+            "noted": true,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 371,
+            "name": "Raw swordfish",
+            "members": true,
+            "quantity": "9",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 383,
+            "name": "Raw shark",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1640625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.0703125,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "29",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 1444,
+            "name": "Water talisman",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 2801,
+            "name": "Clue scroll (medium)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.004464285714285714,
+            "drop_requirements": null
+        }
+    ]
+}

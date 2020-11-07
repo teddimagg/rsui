@@ -1,0 +1,86 @@
+{
+    "id": 12797,
+    "name": "Dragon pickaxe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14767,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 97960,
+    "lowalch": 39184,
+    "highalch": 58776,
+    "weight": 2.4,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2014-10-09",
+    "duplicate": false,
+    "examine": "If rocks could feel fear, they'd fear this while admiring its beauty.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4XtWWv0vDQBTH78YMGTIURCh0ciwiSJdODqVCKxXEDlWQmkVRcHBwcHAQHJz8i8/73rvX5C5pK2nKnQ++XHq/3iffvEsjxP8IqVwFDamOhDDqJ0L9dLMY4KQap8lKpxpsqIU2gHuU6P0wVd/aHbj0dpAaoe/DCr/RVgFbhXSdeegkKrfC9XMnVS8a5NWKIfkagLiBlsGohgAA3WWJWmhd2xZCH1SGhQALYb3r3k4hVwmQ7FIn5gLnhKgl/Ib4AJQPAoQb4H12gHJhJilthkTsChzCWNm5TI93BRU+C4+XhXkNa6wAKsPwo4JbAEBrXJjNvESFUIPYA3N9/RFKmrsETLGIgACBzc9S99hfTaemxbpy/3GvVwFk8VyaszFoMsPwplwbGIP8enlcLs08LnD0U3IhsIcv3nsLEMGU6Xkx+uAOnxwcc4jfTfc3ixU4u7At4aYxG66VxYLq44C+7MsRJw5A7JLrxM7hw1AfirOaTBogvBAvzseqk9H/XUsgRdRvWA/6aV98k9FI3c7n+wFaF/WJ6PEFAVof0QEhpAF6ynMD5Y8GCHKJj38ELkl10u/HBISI8LFF6VKUQAzljwaKSF2KCmg4GMQHxJ8j/migkPv7HGkedZ8sgaMpzC9RTc4W5UvywwAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon pickaxe (upgraded)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_(upgraded)",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": -2,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxes",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

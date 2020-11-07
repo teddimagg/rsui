@@ -1,0 +1,84 @@
+{
+    "id": 23206,
+    "name": "Dual sai",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 23207,
+    "linked_id_placeholder": 23208,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 6000,
+    "lowalch": 2400,
+    "highalch": 3600,
+    "weight": 1.36,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2019-04-11",
+    "duplicate": false,
+    "examine": "A pair of aggressive Sai.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xu2WQUsCQRTHfR/BQ3eRThIiYUgS5CUpyTDJCO1gJoZpZmZmqEWH6GO/eDvNzuw6u4zuTBf7wSA7O87/P2/em51Y7J/NAdDfYwES0RECfO71NMeuDeDZyTEOOh1NIWY+k0hojF0bwJ1UCo8KBQ1TgIvxWGNcZAAPcjmN1QPet1oa4yIDuJfJaEfpzwwd5vO/hsISHfDloR/y3gjM0H42i6+PA7yqVvFjMgkQBbyp121HCRwTvNEzRYsL+0dTn8XkZiveTacdgUat5tk29fYA9tttW1ECvL1uuAYoMp/Tqft8WakohFn/9/tCYTYygBflsiTKtk9+pt/lSAAOu12FWSMIU9ToTJqNRu7q1YIsSiKaxpEjIbZRbYYTdlAaMCkmBecIUCe0DIuSHE3eH1yha8Mq7ms+U0wsqlAWlxfkzUNjiLKXxeiI2IrHXdG7ZtPdOt68hWKMoFxaTn6qOGr8cD0vlRT/iwy7L6k+Izz56f3b09A1QlcZblh9XEQG3AucenJvPnFDlswQ4nMSJCDEAbeTSadC/RE1DDjboifCbg5hCzAAqyQ9EXAqUO+yFwmRqP43y7AKpLuVRVNBVxEVgKfFouLANM4q1WO19AWrTG7dzMbwA5ATfTq13gxnAAAAAElFTkSuQmCC",
+    "wiki_name": "Dual sai",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dual_sai",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Dual_sai",
+    "equipment": {
+        "attack_stab": 11,
+        "attack_slash": 8,
+        "attack_crush": -4,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

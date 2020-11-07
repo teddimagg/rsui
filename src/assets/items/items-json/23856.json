@@ -1,0 +1,77 @@
+{
+    "id": 23856,
+    "name": "Corrupted bow (attuned)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A sturdy bow formed from corrupted crystal and wood.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtUlEQVR4Xu2W207CQBCG2RdRJNrISWqlcggbmhZoEEo4GQSFEFHi+7/AyMzaUjYkeNNdLviTySbttnzMTGf/VOqiixIRA/mKJiEIg2qW0yrfVSwGz/d1sO4qBGOm0xTyLkVi4FldsI3aX2YEkLxLkRgM67MIyLy1oZR5isDk3QrEYNn6hlFjDs2HFvCiC22rB/3qhEqoDWrV3kLXHkrZ0dZLDBbuJ5WueGMegGiACcVg1lxB/rqku6lDibJlr4oHJZN3KZZocNf0oZF3wKAsnQlUvxJAIZM5ki0tgIzGQFCdgmfbUCsUIriGKZpefkKBRFacskWBUKZh0IrXtTS9+FEBNeZjCGoB2LmcPiAhAbR52e5KOAC/7J8HEPYOzqmAc3AfPV19FGr/pSHQurOJJrq8U5n2xwjbAf2Abw9iQ1SrGHx4XzTVe5VRLFNyKJU4jHGAYrbQQ6HtRfuCtgWnvBaoubumbCHYm7MmGKfUIRusqcdEeRAMM4ZwE74gX4XZilvi45GAwkZ/bS5pLOCKMeXvFOix8AjCfsMPAd0oHt4InBiUkPzvT0fiBjDuMv8b8jsuOqVfESQ4gnXkoVMAAAAASUVORK5CYII=",
+    "wiki_name": "Corrupted bow (attuned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_bow_(attuned)",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 118,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 88,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "bows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

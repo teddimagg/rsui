@@ -1,0 +1,77 @@
+{
+    "id": 24374,
+    "name": "Twisted rune trophy",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 24375,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 15.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-11-14",
+    "duplicate": false,
+    "examine": "A Rune trophy for competing in the Twisted League.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADgklEQVR4XsWXXWsaQRSGMz+gF7kQRBCWICIiIqKIoihKihUNJhArzQepbRpoSJo2BELblID0C1paAm2vSmivUnqb/5Kb/pfTvGc56+x0jdpEPfBi3M3OPPvOmXPGmRnPUOTWVENRY2ufbq9tUbndoVJrfZpQitZffaDaxi61D7q09OQF1R7sMlDCsv4D6loOK1p7+Z4y1SWai6Wc5QJUolQ1lvAq9cZb3Dmk5uMDj3sDw4ZJluvkCwSdAYq5HH8m43GygkHyzc5SwO9n4TsUmptjRcJh/i7PtvaP2WUIUIWl1VGgFD+UKNpO2MujeBJosVaj+VKJsqmUcy0WjbIAK0AicTqcyPLy1zt7VN3YpmSlPiyUncjxQsUFhIF16ZMKFNwynQMgrkHiGJYPLkXS+WGgFNU398iKxp0BYLWAyOD59jZLh5R7pmQsvJy8IHau+6X7hu2QWLp78pPuHb7myTF4tVJxJBP2A0KZgBNeGwFlROYYCARL88227c6zLv0+PWUgQPw497EESP4WICsSp0gqzzlYXu5wqQBYurrAL4pPjIs8HRoIiYdBwsksP1Bds5dHd+frmQ1iuuW3QgyFJI7nK5zIcHjl+VsGyjVaLpd6qXFlKB4ITuEhfNcdwi6DTLd0INQvOBXNlGh554j+XFzQ95MTdg7lxHRogEsIGwo1BG8mSyIAIhMoEIo6DuHzls/Pajzcp3yjzdcxdmVlk2GHWDI9FBWaqwzmlbReAhAkIJAska5crcUOjgiE6A2ib/F+2342YDkyIZafHrHwkugE4taIQDMzev3wApJWEYgkyR+Kkc8Ku0DQpDeOP/Hm8IIZGcgOuz4h0aVVQKjEuIdWYjoCCAi5ZN67NgwKJLYukhy2640XymcyxiTK1aDluilzpiGjVyDT8wuctObkcE6uyTP4XxRYOUe5x7x2KN66KHY6kH5Prss1OAoBSPpWb7wbiX7rr+j81xl97HY1UOVZEG8cynv9FWUW7zs1x3ROL4j/PjuWuOxLhUKfCfu5OtZwA5l3vV0da9h9rx/QFELx2WfKQL3c2HzzhY8pcn6yNdGw20Kn+5lh0M9wnEARxIkwmitNEkzRo3ffGARAAEPzxIELP29w0sSpEL8oAmG9UI4t7JojStVXKHHnLsXKTYoWL7t4tkKhdJGCsQx3/wnlVS9/Bmli212vLYNkPjts/AVk15SqqM6eZgAAAABJRU5ErkJggg==",
+    "wiki_name": "Twisted rune trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_rune_trophy",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": 13263,
+    "name": "Abyssal bludgeon",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 13264,
+    "linked_id_placeholder": 18628,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 260000,
+    "lowalch": 104000,
+    "highalch": 156000,
+    "weight": 6.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2015-10-01",
+    "duplicate": false,
+    "examine": "Elements of deceased Abyssal Sires have been fused together.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB00lEQVR4Xu2Wy0sCURjF5y5duHAhSCCEhISEiBRCOBS5UckW0kOiRRgSlT1EEMHeDxApKkwqKgoKelAKBkWLiGgR1B918t7hjg9atZg7hAcOA5eB+XHu9xhJaupPImg8ESiCeGwYOoEiSCfGEZJlBuRqbRUNRRCRvfC7XfoBGuuRYTaZ9ABEkFufw0o6pgcggvPCMi6P11DYTsFrkEQDUdGuIrg530JXBYhaeKcpiVTqKBhogBIGRnBxuMpMi7vPKLF64jVVb82kfPClkMdcfxB+o0GFskqSak2h+NVRF69y2FycUqHsFRinQQCUIoKzgyW8lo9wspTBTmIBmYkopocGYTEaGZDGnUjweLurplW+3mGzKjk7hr1skj2FpMSvkM6q7GociZlRFVLIIq5eS7XLOGTpZhtWs1l7KC4Kwq2cEIQCslpT9W8LE8FkOIzONpteoAg+3+/Q2+HQS1IEz/f7eHs6xXxk5BcoXnuaqjLdi3lkUlH2CzMT8KsN0GKx1KwfTaUAZDfi+P4osdUT9fWh3W5nUEKS4uPg6/0Bfp8PPd3dcDudaLPZWEoDISFJUSlpUCCvx4MulwsdDgc7qx8bGqp2SXMLg6lV7TAVDtPUv9cPjC4htCVqKTYAAAAASUVORK5CYII=",
+    "wiki_name": "Abyssal bludgeon",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_bludgeon",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Abyssal_bludgeon",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 102,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 70,
+            "strength": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

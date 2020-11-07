@@ -1,0 +1,79 @@
+{
+    "id": 3194,
+    "name": "Steel halberd",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 3195,
+    "linked_id_placeholder": 14622,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 3.175,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2004-09-20",
+    "duplicate": false,
+    "examine": "A steel halberd.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgUlEQVR4XtWWTUsCURSGPcsWs/AfiLRo0cKFIoqRJMkkGippoRmlRZhZZqblR1YoGUIR/eA37r1NfqAt554eGGZgBubhPe/cuQ7HUgjqYAFhOxzGZjDIQUols5dIYNXtltcel0uXFOG2UsFJLidFjs0VnUKEYbeDu+olSod57O6YGJQMpDaU1PzTNkB4feyhdX2Fs6OCHFnI78d9zoDp0yJFGL88o1Ov46JYRD6TQTwalT2qpgz41hx2SxE+hkP0m03UymU5NpFSwOuVIqcx2/tE+BqNMGi35dhESgfpNMxI5CcZQjZs++gIb0999BoNmZL42lKx2K+QKLmGPqmXP9zUFqbU2NfQJ9UTJWBJTfqjpU+KabFsMjmVipY+TbDExHmSCiEe0CglmB0R4b3iRGjd5j79DaFbMPT0aTkkV3JGKQk0l3wxhC0Pqz4J1BLBqk+fVSe/lMbnDKXEj5idlLVGzd/RiNodsJNiuXBaW5b5Oxoh5CMMpWa3MAxgJfMv+QZtffNHhCI61gAAAABJRU5ErkJggg==",
+    "wiki_name": "Steel halberd",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_halberd",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Steel_halberd",
+    "equipment": {
+        "attack_stab": 14,
+        "attack_slash": 19,
+        "attack_crush": 0,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": -1,
+        "defence_slash": 1,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "halberds",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "id": 7392,
+    "name": "Giant rockslug",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2016-09-15",
+    "combat_level": 86,
+    "size": 3,
+    "hitpoints": 77,
+    "max_hit": 9,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 6,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [],
+    "category": [
+        "rockslug"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 20,
+    "slayer_xp": 770.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar"
+    ],
+    "duplicate": false,
+    "examine": "The slime of greater evil.",
+    "icon": null,
+    "wiki_name": "Giant rockslug",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_rockslug",
+    "attack_level": 72,
+    "strength_level": 77,
+    "defence_level": 77,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 4115,
+            "name": "Mystic gloves (light)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.001953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": true,
+            "quantity": "42",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.03125,
+            "drop_requirements": null
+        },
+        {
+            "id": 453,
+            "name": "Coal",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 440,
+            "name": "Iron ore",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.171875,
+            "drop_requirements": null
+        },
+        {
+            "id": 2349,
+            "name": "Bronze bar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 2351,
+            "name": "Iron bar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 436,
+            "name": "Copper ore",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "drop_requirements": null
+        },
+        {
+            "id": 438,
+            "name": "Tin ore",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0625,
+            "drop_requirements": null
+        },
+        {
+            "id": 447,
+            "name": "Mithril ore",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1913,
+            "name": "Dwarven stout",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1015625,
+            "drop_requirements": null
+        },
+        {
+            "id": 2347,
+            "name": "Hammer",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 20730,
+            "name": "Mist battlestaff",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0024193548387096775,
+            "drop_requirements": "superior-only"
+        },
+        {
+            "id": 20736,
+            "name": "Dust battlestaff",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0024193548387096775,
+            "drop_requirements": "superior-only"
+        },
+        {
+            "id": 21270,
+            "name": "Eternal gem",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0008064516129032258,
+            "drop_requirements": "superior-only"
+        },
+        {
+            "id": 20724,
+            "name": "Imbued heart",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0008064516129032258,
+            "drop_requirements": "superior-only"
+        }
+    ]
+}

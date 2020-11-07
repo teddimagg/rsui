@@ -1,0 +1,84 @@
+{
+    "id": 7807,
+    "name": "Anger battleaxe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 182,
+    "lowalch": 72,
+    "highalch": 109,
+    "weight": 2.721,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2006-04-03",
+    "duplicate": false,
+    "examine": "A heavy duty axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABDUlEQVR4Xu2VsQ6CMBCG29GBgcGdR/ABnJwcXFxcfAtCCAGNMdHnPi31567I2vYG/uQPhZLcx3+lNWZVNlliZ5elR9vSvWnofRtyQ1l6dt1oQLlnu6rKAcVtAlRGIIYAlEvIOVxPydrngdAmjGF3/+p7ARhdnBBg5BV2UAla6FuB9YKUJIwcRway01dLsKGup9ZhXsJEBXLGfiMX8TyVJDCy2LYsp6KYk+a5qPKFr+VmdLgzh7975HQgX0wmxWvKGEAkg7l8U1mCSgQgZen8g+HiPFYA45UYxMnSqViGySBLxxVmUZYOhdEDs98ogpHHgQqY8HzKJk5GQTr/bVIFM38joVTBQKpgvFTBaNAHpBdYlxemId8AAAAASUVORK5CYII=",
+    "wiki_name": "Anger battleaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Anger_battleaxe",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 2,
+        "attack_slash": 2,
+        "attack_crush": 2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "axes",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

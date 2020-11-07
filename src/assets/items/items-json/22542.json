@@ -1,0 +1,86 @@
+{
+    "id": 22542,
+    "name": "Viggora's chainmace (u)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22543,
+    "linked_id_placeholder": 22544,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120000,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 2.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2018-07-26",
+    "duplicate": false,
+    "examine": "An ancient chainmace with a peculiar mechanism that allows for varying attack styles.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACIklEQVR4Xu2W22rCQBCGs4/gRSAIQhAREZEgEVEsFotFpJUK4k0vff9nmObfcbKbIO4mNdqL/jB4YHfn2zklQfCvf9lSZOzpUrScLanX7VI7iiywp8EpGvT7NE/nNBkn2fdBBtejsBU+GoqjELZa+nMyHusojYbDwv9JHDcJZdKBiIyGoyxNbVotFhoG/wNIrGEgdhZ3OhZMlDsWQ6RgAtMAEDtCncDRPE01hF3AxrGiaZJoayg6pmBNkRoTEOOYgewIFc/7lUw9oHvKANfTgdpK9SXuDMQ3laL17xgGkgJ3r/cSw+CWKGBER9LldsB7pb7c653iGyJNAMLBiE4VIOz1j+hNKTp/n/OiXC1WFxg2twM8Qmb5Rdzrb0rRYXfQ0ZG2xfNJYFBHbgd8Bi6C2qv56OD23b5taf2y1ocBRNpcgOIOzxgXEPai5vAsg7n3aJk5gpGPqAAGh02TqdVZAhR6Hl4EkvW391wgBEQMkUFUkH88rRmGzU6X4/AA6wCEs9wX0FJ0+jrlIHa9oDswP+TVQcwfBmKganuyxcfPY14zMHQVogMg1IsMQ/92t1UJRlSEwqcMQgaK8hlUHSgIqq6/yLTp5nWTv1IwFFtdoJpStN/uNRTaXjoEUDCkj2eQvGY0LkUf7zsdHaQM3wEmv2Um3WHq+soMRJlB0iFlq1GkdaR0NGQGlZ2Xrby7AWFIGpgHO78mHvUPTImP/hQM61kwPzFG+S4ZKO38AAAAAElFTkSuQmCC",
+    "wiki_name": "Viggora's chainmace (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Viggora's_chainmace#Uncharged",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Viggora's_chainmace_(u)",
+    "equipment": {
+        "attack_stab": 53,
+        "attack_slash": -2,
+        "attack_crush": 67,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 66,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

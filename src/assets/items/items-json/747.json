@@ -1,0 +1,84 @@
+{
+    "id": 747,
+    "name": "Glowing dagger",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16813,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2003-08-20",
+    "duplicate": false,
+    "examine": "A black obsidian dagger, it has a strange aura about it - it seems to be glowing.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtUlEQVR4Xs3VTWvCQBAGYPcneBAkECs5llI82EMFaWio5FB7KvgF/Tr31Ju1IsY2bS0URTz10J86dVY22V1jS8GdZGBAEsk+vDPRXI68GOhXUiwGtr0HGUAhgEG7fQ2LxTf/XCmX00KtU7l/eIIwnEWYFEBxKogZDt/SxWAqiHmdLmEweIFSCRHko1qnIjCHdY9j5vOvNNKJIQKDncKo1FRwRAKD6dg26ajWEHlEMmY2Ix1VnMpo9B5B9msu9B+fV6MKqRZZHZGOEel0OjcU6agjSsJgOniPDCPeIh0jj4pgkbdjor3pB3xUBOn8jRGjarWuTC5y/F8kY/RRiSU2nM7qoZUjBYFdcX3eMgZ/ibFxb4ymUyxaEUQsrZ4M9ng85RAZYwSECckYGYFvEt6bTD4pMFgMXPeMo+QFFh0EH9Dr3VFhsBg0m5dQr59ylNgb0YgRIAIMFoNu9xZ8/wJqtZONpJJA+hN2XAwc5wAsy4FG45yjqtVjvjdJGMOgGINdKNjgeT7fKblxnATpqJh8vsAP3daG01Ex+qHbWn/KjmoTQ3Dob8USMfq3iItkL/5XmcJkpX4A7nQlf4UcTFIAAAAASUVORK5CYII=",
+    "wiki_name": "Glowing dagger",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Glowing_dagger",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 3,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

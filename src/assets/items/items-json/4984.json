@@ -1,0 +1,86 @@
+{
+    "id": 4984,
+    "name": "Verac's flail 50",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 160000,
+    "lowalch": 64000,
+    "highalch": 96000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2005-05-17",
+    "duplicate": false,
+    "examine": "Verac the Defiled's flail.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xu2WXUsCQRSGOz+hC++jC5EuQqIIxXBxURYxkSgTNTGtJBORioJEIsosJJA+pH/75pllV10JFFxniB6YC8dZfTjn3bO7tPTP3CCYSwkInU4LV5cXqkgRut0H3N7WcVzMypKyWkRot5toNi9RrZaQTqcQDgcXLUX4eH/B1+crvr/f0Os9o1IpCploVINh6Lbs72vukBDq97tota7RaJwjlztAJLJjS3H7jo4OhSx/zxXkvUxmz10pDrMl5PN5RctYjKUS8Zj481rtRIixEJ9ztVJPj3dCKpk04PEsT7THv7IysWdJuiBFuL+/Qb1+ZmeHBZyLT45/JnGNS+0jkY9RGeeJSWgsd65ITS9jQWNCs107BbP/IIlhWi7n7PA7TyyQQYbO4ijlI9jb3YaurWPTvypLinBV20WlFENmP4REbAOBTe+MGZwrZnUKWU1UJxTwyZXh6pwWdFEdbpVEGYZwcWIgnx5Mct0vX6ZRTYggc26sEEuSYUi0inMjOcTMUEYLrakjw3fU6F3lPLkAyB5+ThkJQqZMMr6lhgwPPqVkrGeUZBnGFOJZo4CMBSGdCqow/EYZvlMrIjR8j3bu/xl+AKQHgYKr4YtUAAAAAElFTkSuQmCC",
+    "wiki_name": "Verac's flail (50)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Verac's_flail#50",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 68,
+        "attack_slash": -2,
+        "attack_crush": 82,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 72,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 6,
+        "slot": "2h",
+        "requirements": {
+            "attack": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spiked_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

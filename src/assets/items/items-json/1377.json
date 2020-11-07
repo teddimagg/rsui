@@ -1,0 +1,86 @@
+{
+    "id": 1377,
+    "name": "Dragon battleaxe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1378,
+    "linked_id_placeholder": 14720,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 200000,
+    "lowalch": 80000,
+    "highalch": 120000,
+    "weight": 2.721,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2002-02-27",
+    "duplicate": false,
+    "examine": "A vicious looking axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4XtXWQUsCQRQH8J2jBw8dhI5+ApEwJEmSJDHRUMkMzTAqokPQoUPf/rX/Hd/OzO5MmKO724N3kN1lfs6893aD4P+HoHTmFoK+jsv0ucmPSpneKyULMFOkQjEI+RLm+qhEy01miDJBjLKB6tVqPijeJYAYljEIIWIQdgQI3ilkBqBkscrfvCv6bmUAEnRz3aerTifuIoYgXZ3nCXJ1haDlbEa3o1GMYgwW/g4RyGShe4IE9cuuVhX0tFgYqItWK7oXAN6xJMobNAxBdpSg1XxuoIa9XgzBonJhE7UXEKeJElEX4YhsKHNRhUpf+1MImoSLIk2UwqBecBQ66rLdtu4oUN6gu3BhpA7TMdw5zw/LCHU/nUYo+8L6Ue4cCoXUMebkNVGTwcCyS0HgiUHI4+EEhqdw+h8Len1cxSg1n/YactjpAw8Y7JbrWHTUWaOxb5SIIQxjEGrKvphCuevJKyRK/4xgUHocqGcY1e92Hfd4hWx3Th1kH5zyGaAwQM+bTcc9HsEFzF2lp7udJepAR2eGDvx9IYlSr5ZChHwZ8ws4eTWnCGtvPKbTer1YKEzxA8ynXUPQ23od1ZPqvNxhqsjxZVCQI5RFjuM7qdUOPxK2C/nVyZgCgBCFwsjYBvMDKiD2uaBBfO0AAAAASUVORK5CYII=",
+    "wiki_name": "Dragon battleaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_battleaxe",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Dragon_battleaxe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 70,
+        "attack_crush": 65,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "axes",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

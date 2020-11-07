@@ -1,0 +1,79 @@
+{
+    "id": 800,
+    "name": "Bronze thrownaxe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14466,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 3,
+    "lowalch": 1,
+    "highalch": 1,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2004-01-21",
+    "duplicate": false,
+    "examine": "A finely balanced throwing axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB3UlEQVR4XtWVv0vDQBTHc+MNN3QQpFAIpUiQIh1apGKxWJAiRSwUCxahgyIOgoODg4Obg3/0k9fj5d5dfjSmSRO/8Jbc5eVz3+9L4nn/WwJ01UIC+sEhnHQO6gClYThQz/ergNIRDbvNECbwG1UBCbjotUKYioEETPotC4hg2k21KTPgbhUuG8Z1iNfbQsHjtYS7sYTpQMIg8BKgcsMKmJ76YSEYFQJSEejrXMF6KmE+knDZ8+C8q4HsOPUBsXJAaaDZWXtTaXDvSwUvNxJWEwmzIXfHLn5fFHarbIcILA7OjYuvxx0iNxDe6DbmYATH46JrLoBbuYHcwofxGHhcy0kAi/FRJqhCgAgCG+lmwoprdXUcQt2OOolQOHe5gPjbxEEI5uNeWXHhNRcK3SKIuH7uU1NkgGxXzDqPi17zJCh0a0cglBuRvcbjsvclQ+0QmVYSDLpDcUWhtwMRlN03t7Q7FFf0tCICw4HSnf+zzDBjXPGNo0D8c0H7C4BBmWHmcbl7OExJICQzzPHu6D0IUzIIygwzB3J3aZUKghLwtVbhMCe7Y5S2VoAEfD5kdad0Cfh+UuEwZ3GnZJm4auHOz3NjExe6Qz/RSoEorvRXfa8SWz6ElajQ/08x2jfML7PnczvQU1akAAAAAElFTkSuQmCC",
+    "wiki_name": "Bronze thrownaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_thrownaxe",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Bronze_thrownaxe",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 4,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 5,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

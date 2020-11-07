@@ -1,0 +1,137 @@
+{
+    "id": 2316,
+    "name": "Guard",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-03-20",
+    "combat_level": 26,
+    "size": 1,
+    "hitpoints": 26,
+    "max_hit": 3,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 6,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "goblin"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 26.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "He keeps order in the city.",
+    "icon": null,
+    "wiki_name": "Guard (Cave goblin) (Bone club)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Guard_(Cave_goblin)#Bone_club",
+    "attack_level": 25,
+    "strength_level": 18,
+    "defence_level": 25,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 1,
+    "defence_slash": 16,
+    "defence_crush": 19,
+    "defence_magic": -3,
+    "defence_ranged": 12,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 5018,
+            "name": "Bone club",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 5016,
+            "name": "Bone spear",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1101,
+            "name": "Iron chainbody",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "12",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 4537,
+            "name": "Oil lantern",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 590,
+            "name": "Tinderbox",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 7905,
+            "name": "Cave goblin skull",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "drop_requirements": null
+        },
+        {
+            "id": 6801,
+            "name": "Goblin champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "drop_requirements": null
+        }
+    ]
+}

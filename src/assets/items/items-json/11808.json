@@ -1,0 +1,86 @@
+{
+    "id": 11808,
+    "name": "Zamorak godsword",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11809,
+    "linked_id_placeholder": 18345,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1250000,
+    "lowalch": 500000,
+    "highalch": 750000,
+    "weight": 10.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2013-10-17",
+    "duplicate": false,
+    "examine": "A terrifying, heavy sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4XsWVTUtbURCGM8ssuugPELKWcilBkULdNCBBXFhBEUJAqFoCRbISSxtCCbFaCQlqYkgIoVqaNl0ERLroosu68y9NnTk5XzfepKT344Uh4R7umSfvfCQWC02AOiIXYLf7A+v1z3hy0ogaCrDZ/KJgarU2Az1NJIKE8ioHYKv1lSEOD2sMVCh8DBoIsNe7VqGhANvtb3h62mGYo6MzBU0wAQKRRKJ+/6dK2ul8x/PzLsOUShULJGAYKcDB4BcnpgaWMMXicViuuAV4c/Mb/9zeKZh378tRwUgBVqsthjk4+BAljOgbcoYmihr5+FOdP8VZqNKuUOTzb1VjB+yQuWvMXy2AyJmHpslnGL1Tdnf3rJBgjYsrrFSavGcITALZd/hSNsBsdkcllhAmDPVIuVzF/f2iema7opemb1DichtEPiMgcscEcbsjYUbPppYulwSiuLwc8CRNTjbpfCoJCNotBEZ/mDTitnPe8hlGCnDrcRzX1jYtZyRsQEm9JGBWHsVxPh7jZjdL+C8u+SzA9D2Mcw/DcFuvcXv7zcgaCMklG8YsE4GZJfMZyG25SCTL5E7q7h/fYVaWllQCilwuzw6kUukxSQEzmVfDd3wT4LO5OQXyYnGRg2DW1zPoOEkF5H5TyAv2v2ReCvh8YYEhk44zxh2tcWdTS18qgF4uL7NT490JXICJmRlVPoqN1dXh99AF+GR21lUiYKcicEk3tt0vevpCBiKNwpjuRAD00LRECOOlsGH+AieXDFMUPybIAAAAAElFTkSuQmCC",
+    "wiki_name": "Zamorak godsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_godsword",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Zamorak_godsword",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 132,
+        "attack_crush": 80,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 132,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 8,
+        "slot": "2h",
+        "requirements": {
+            "attack": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "two-handed_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 866,
+    "name": "Mithril knife",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14476,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 27,
+    "lowalch": 10,
+    "highalch": 16,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaElEQVR4XuWV72uCUBSGO/9JH6MPIWMhhDJRFiZOKqhG+0GTVjSbc8TY9te/41y5og72LY+wF+4XuRcenvfca6fzv0KofxEMwTTnaAkUwb66VzBGt6tWfUeDIbhuXNgRh/Gun2FZt7i4DKWBCP4kwXi8r9gRAiIEQaqAWmCHEIaZAuIlbCeH0UDCdgg30amA4Ws+HEYYDDwJoCqMHmTD8CXq+g2jqxKzU4ZxnMeiqn7fkQFiQ3zF+REcjZaqqrKdxoFm8y9khwP2m01RlZAdDuGUJHiJY0QTv7DT61kSQISP1yOO2y2e1mv4ngfLNBWIQF2Ez7cU6W5X2HFtuwLSIAyH1NywnbvFQtkRsKKTzw3bYaBZEFTs1HefOXlVbIeBltOppB3C93um7DAQz464Hb5VrbHDVWk7D6uVsiMGw1WxHQ1Ut1M/cebkdjSQsB2dfH4YSNhOOfn7w6+ysJ1yRP5Tf6dVME3nBzCNbisM6GFUAAAAAElFTkSuQmCC",
+    "wiki_name": "Mithril knife (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_knife#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Mithril_knife",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 11,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 10,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

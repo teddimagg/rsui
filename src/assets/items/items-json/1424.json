@@ -1,0 +1,86 @@
+{
+    "id": 1424,
+    "name": "Steel mace",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1425,
+    "linked_id_placeholder": 14670,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 225,
+    "lowalch": 90,
+    "highalch": 135,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A spiky mace.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4XuXUQUsCQRgGYPdHBBEES8QiHWIPhigtLS3KKmtsoAVGQUIeEjqYiGhhhh2sm9gx+qlvzU7jzk7X+GagF97bLD5884253P+JhbRawxF33S5eHib4WC6pUfIkUoioALm2TYHiALkyRjuo2Wjg/XVhBohhBEhGaQExSMX3ky6eppmSg2SMCrq5usTnapWU6KVZGYwMYhhRASKYkoW845gFOnBdHBaLOPa8NUjGiJKBjsrlBBJVqzit13EWx7jtdDDp9/H2PFuXDBQGAU5qIS5areTFTYfDnwXOlmFIQNftNu57PczHYzwOBpkfV6t+/cexUCpsIarsYDYaUU9CjYX9vQ2Evp2A1KmopwnyvcylbcS1XZ1TEbFQcDd/TUY9RRSOCbzsdNRThDHsqtirYotsDIZdVTNyzLgqhjFmkdneGHNVAmPMq1IxGkHp3pzHed3T4X+ABu0OC0cZghExCsNDjfkCv5mp4xDjNdEAAAAASUVORK5CYII=",
+    "wiki_name": "Steel mace",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_mace",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Steel_mace",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -2,
+        "attack_crush": 13,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 11,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spiked_weapons",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

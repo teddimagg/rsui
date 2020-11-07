@@ -1,0 +1,86 @@
+{
+    "id": 1203,
+    "name": "Iron dagger",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1204,
+    "linked_id_placeholder": 14634,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 35,
+    "lowalch": 14,
+    "highalch": 21,
+    "weight": 0.453,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "Short but pointy.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVElEQVR4Xu3VsUrEQBAG4EyZIkWKQBCEewS7A/EVrhM7D0F9CgVtRMTmbEQUUURFsRBFVBS1k4PDQnwDQcSn+GV32Nu9JK0zW/jDEsgV+ZiZm02SPw+h+kYpBkKY7nTss/qrYBiy2J21GAeaaLU0UAwJMYqgZsxUu60LCjGKoGZMdKAQIwiKCmPSDIoKozQ3JnXQf6t86iBhTHhB1jHCc0M4OS7sB92pgsSrs9XLLerqkmGKGBPC8lKGne0cZ6eMenostTAmhLluitWVDHu7jLq5LvDyXKL/WgatFA1hYT7F+lqGg/0cF+ceNeiX+Hgfk0YRZiZTezY38iHq7pZRX58MEmqdx5jjhvzokFGuZYKz5EG+Cn4FOIg4ZhSUJMIQl3p1hAFhosKYEB7uC/x8j4+0Silk/9JvA158ytUhe02YK8JtYkWMCw13jHJ1wkSF4UhjfgG3l58uiSlhgAAAAABJRU5ErkJggg==",
+    "wiki_name": "Iron dagger (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_dagger#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Iron_dagger",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 3,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 4,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stabbing_swords",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

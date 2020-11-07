@@ -1,0 +1,93 @@
+{
+    "id": 22647,
+    "name": "Zuriel's staff",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22648,
+    "linked_id_placeholder": 22649,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 300000,
+    "lowalch": 120000,
+    "highalch": 180000,
+    "weight": 2.267,
+    "buy_limit": 10,
+    "quest_item": false,
+    "release_date": "2018-09-06",
+    "duplicate": false,
+    "examine": "A powerful staff.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4XuWW30oCQRTGnTeR6DJkCUWURFGUTVRW0QxUMDXFjPJPCFlhF0Uoghf1AF3UXS8QEUTUEwQhPUCv8dUZddW1291Z6IO52Z1hfnznzDnHYvnfYhgvU4ih//mC049HkVDTixmevkcYjl5Re77nQJLVajQUQ87p4Jc3T5q4+XpD/f0BmduB0UDTPGE4CvhxGQujfFCGHJPV7wRjEBBDL5/ji9zpx2PYTiQgBwJwSNICkPakDmK43i0iKdnUi++ah4iEQnDZ7dwtAmyHApP/uovhWA6qMBSqyOoKsl7PAqSBIWMouV2qM8VsBn6PR4XYcTmNhCExdMMyztIptFwOpO2znKl43EbDkBiulAhP4vK6DW23E4OEgmEqDsW2pgJpT+kohv1SCVuKgobfu5AzQtwhmNjmcq2ZX9pTOomhVavx560F0e40QL9PvVFfgtHuMkjj0FAVNgUMOWMaGMoZ08DsFQrmgank82aAmZR/s8BQwTMNDHVsagVet5DmOK9xmDKpFC96G87Z6KDdqbPGIBedDnrnXd6baNoT5A5DvVrlMFRncum06LxhHILqDIVKMAyJ8eGKwhT0+cTDkDvJaJQ7IzCJ5yV0wvtbUwiRMD93eHa0+Jv2lwAAAABJRU5ErkJggg==",
+    "wiki_name": "Zuriel's staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zuriel's_staff",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Zuriel's_staff",
+    "equipment": {
+        "attack_stab": 13,
+        "attack_slash": -1,
+        "attack_crush": 65,
+        "attack_magic": 18,
+        "attack_ranged": 0,
+        "defence_stab": 5,
+        "defence_slash": 7,
+        "defence_crush": 4,
+        "defence_magic": 18,
+        "defence_ranged": 0,
+        "melee_strength": 72,
+        "ranged_strength": 0,
+        "magic_damage": 10,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 78
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staves",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

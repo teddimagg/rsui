@@ -1,0 +1,86 @@
+{
+    "id": 3757,
+    "name": "Fremennik blade",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16758,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5000,
+    "lowalch": 2000,
+    "highalch": 3000,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2004-11-02",
+    "duplicate": false,
+    "examine": "A sword used only by Fremennik warriors.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQUlEQVR4Xu2W0UvCUBSHPY899ChIEIiMkCFjjCIEwUEgFQUFysJlTEeJQmUiREWP/d2/uHe5zeuCHuLcG/nBebkcdj/O+W2sVPrfENQTjRDi6xCGSBFubwZSxq1WZakdjBDGUWSOzHQ0MkfGqMkYlRkh875YpEJqByPJq52X0ShEGPb7G5kCCIMgkDIG5IYQ9nprMlqFNjLFZDLMuSn6Vchk3uZzzukQDp1deWH+TJOMgODZO7l1EGaTiRR5eZpxywgIZ779NSHtMksI7QNLCgiZ58cHnTJLCN2Ok05qtdgh3F95eI2biPwtNKyKrKPmHoITl1uKcNd1pND6ZJJiWF12WXhqI75srFxcVOoTfpEkwGIlF76F4LjONYXvSMIr8iG+Py2vlgqpnYwQPqYuwvN9VMrbJggJWEP7M5hC+zf4BAXhJho6RdBuAAAAAElFTkSuQmCC",
+    "wiki_name": "Fremennik blade",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Fremennik_blade",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 6,
+        "attack_slash": 29,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 28,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

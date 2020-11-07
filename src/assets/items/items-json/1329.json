@@ -1,0 +1,86 @@
+{
+    "id": 1329,
+    "name": "Mithril scimitar",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1330,
+    "linked_id_placeholder": 14756,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1040,
+    "lowalch": 416,
+    "highalch": 624,
+    "weight": 1.587,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A vicious, curved sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABv0lEQVR4XuXWv0vDUBAH8NzYoUOGQHHq6FjEEggVS8USSy3UoTiIgyAOoghdBQd1clGkIAgqiFCsIEJBEEQQBBd3/5uTe+ElL5eIIs17Bb/wCPnJh7tcWsv6nwHkRwyFIIDV6qrY8rMaE0BmZlcEZm5+XeyXikXdqADieZ0Ypl7fMAECdN2lGKZWWxOYRmNbNyjCVCrLMYy/sInN5o5O0M+YxVZXFwiwXG6FGGoVYeR7QyBql6YKBRiqjsRQdeRKg2U4+oBT081Eq9IWh2WACjC8VRxCx+m8/BTIRW0bYesiDB9xuWhfhUiAuvhT/5gkhrdKrUoGADXpGFkd2tI+rwp/yggTTRQfcRWTcVVkkhg5PWkYfveI8z2GthpbRIlj1F9vidHUIgrg8ML5FYbfmVEAD7p5vDl28PHKCb+2hjAUwLafw92tPJ4d2jjoOfh07ZjCUAArkxb6pRy23Rye7Nn40i+EIH61hoDAdLwARO17uzMGAtGiz+cJgZGjbahdgJdHNr7eFvBjGFVE43irAfGuUHVo5A2/MxTA3r4tRv3h3BFVGhsQfXve78cE1D8NvjeGXmKe5L88foX2mIZ8AYTq9kh7LqrAAAAAAElFTkSuQmCC",
+    "wiki_name": "Mithril scimitar",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_scimitar",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Mithril_scimitar",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 21,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

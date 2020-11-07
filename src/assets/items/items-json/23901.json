@@ -1,0 +1,77 @@
+{
+    "id": 23901,
+    "name": "Crystal bow (basic)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A basic bow formed from crystal and wood.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4Xu2XS2vCQBSFnb/hSly4EBehVNAS39biC7VptCopKo1W8AXGR2pfuO2PPs1MGmOkLe3CTBceuIwagx/33JkcPZ6TTjqaCA4/4SQKQlDJ59l6eNVlEXSaTRQus8jE4wxI8Pl4QRFMBgPc1mqIRSM7GK5A6p2CfDYDuVJBOhb7tIybbQTz0Qj1WhVSuQSlUcew22H2cYIieHnUca8oSIriXne4WUewWSww7vdRzOUcIBxgLBEsZzNmG+cdZsm0rdNqIRIO8x5qSwaUbkJdl0oIsC79E6iCeIFuo+EY8P3v2K9dkQkwHT6gbJxJoiAg5PfvwOh716HMoSbIRaNInp8hGgpBCATYSote4zT4dlfUdhvhYJAVRyAqgoyx8141DcqNxDrFHciybTGdol4uw+/1uj9HTtm77X273QFx7JI96PQx87bZ8AeyZUAtlzuo78tV2VA0YdKoUi0W2bOQRpdsIsEP6mm1wvN6zVJnW5aRS6UcyfPwriOLQJ/PoRtHAp0tCjhWVQZ2lU5/YaMrlpo/oE0m7FigqzYesxRKi3Zu2OuxAEj/SLQkCXK1clwoawf+pVwJgPtJ8zd1eP9JP+kD2TxKN7l697kAAAAASUVORK5CYII=",
+    "wiki_name": "Crystal bow (basic)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_bow_(basic)",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 72,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 42,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "bows",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

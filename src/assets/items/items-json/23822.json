@@ -1,0 +1,84 @@
+{
+    "id": 23822,
+    "name": "Corrupted pickaxe",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "If rocks could feel fear, they'd fear this.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4Xt2W3WsTQRTFOy+FhbCGJYhWrLHWUGMb0yYxGhOMDcY0JCUpJRZrq5RaEalU6kdBREVKFBUsUhARffFd8hce9850u5sJlmAm08UDQ5JldvaXc+7M3oGB/08M8hXNIgB3fA5O7n3XKhfgU/AC3pjn8T4Y4zDfrSS/Hg+HdUExbATO4okZwZZ5jg/6/dYcx641hV+hSzqBGJaMU7hjhLEaOI0HgTP8892RCewMX8FOKIGvVgI/rYttMcqrKFZ7zVSN4xzw5YkEmkMp7tR2cAIf7Ci/eCKUV1EqisMZ9LCpWAypeBxrtluOc+uBUR4rAWqBEmIc5Ho+j3q5zIFuGicxZwztD7r2wq6zH1ZKBxRDNp1GqVBApViU6saNlOrumTnmgeoLmIjqaiaD2ZkSf4g3Sm+kxcFj3C3akVTwraPZfkC5cdFwgORZQgz5wRDKNhhBkVOt8DWVUAxjkQiPy4nKdeRvElE5UFToregNVVAirulcjkd2sDuunAgJqmkfDQoPUYbbszlsrdW7dEeWOO2/2S79DvVcTwyFTIzDNGa6d6dTjB+e//aH2sSwUMlic6WqYLFe79+DWa7n0dxc7MEdVz3ez7AyP437C93urL6L4eFiCY+WykrcUSCGp6s17L665wcghlIujtfrDf/ENVdM4+PzZT+4Q+o8DOUZmiUKeuNuxT9AtLu2H9/yA5Db+9DbvVGrcSh5lkYxjEej+90htauH7JIAupxM8paDXJqvineZPFOTGEZHRnhTRl2i3LbKszWps4E/9MPRAfAOeY5q/QFdhI/N9m41XAAAAABJRU5ErkJggg==",
+    "wiki_name": "Corrupted pickaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_pickaxe",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": 4,
+        "attack_crush": 4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axes",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

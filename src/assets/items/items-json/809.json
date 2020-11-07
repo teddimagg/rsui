@@ -1,0 +1,79 @@
+{
+    "id": 809,
+    "name": "Mithril dart",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14522,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 25,
+    "lowalch": 10,
+    "highalch": 15,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A deadly throwing dart with a mithril tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu2VsUvDQBSH7403ZOhQCIKQoUhxCFJaAuXEEpcOQWiHILQUERcHwcHBwcFBcPCPft67y7XJ6eDQ3L3BH/woNG35+N67qxD/iRZA/52IAZzPa2QERSCAF1lm6j8NHMCiWO+B/KeBA6jULS87k2nFx45bZAZ2AC+vtpjn13zszGY3fOzQIo/HioMdwMVi11nk6EB052RZzsOOv8gRgOxfArUs780ip+kolh3Ar9MBfpwk+K67mkhUIxHLDuBnA/KmW08llmcCq0TGsAPGCoFQN4XE5bkFWg30a2It+d/qKbC38praVrkFohLQMpwl6IC8pHZUBEJQdxqm1qWxKdm7JeiAUJ8bO65toJ4X28K0Qah0qtp9GErceED+Lx0xh/vGlcbl+jRMQgMJ4UZwGAWYE0YlY8GBfo+1RUCPDZA79pGAKF2gnhf6r4EfQP4nAgfMYjMCooC5ixgBUVjsTzfHhvkGL3QdYSYETgEAAAAASUVORK5CYII=",
+    "wiki_name": "Mithril dart (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_dart#Unpoisoned",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Mithril_dart",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 8,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 7,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown_weapons",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

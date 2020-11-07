@@ -1,0 +1,94 @@
+{
+    "id": 1407,
+    "name": "Mystic earth staff",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1408,
+    "linked_id_placeholder": 14690,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 42500,
+    "lowalch": 17000,
+    "highalch": 25500,
+    "weight": 2.267,
+    "buy_limit": 18000,
+    "quest_item": false,
+    "release_date": "2002-03-25",
+    "duplicate": false,
+    "examine": "It's a slightly magical stick.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfElEQVR4Xu2Wv0vDUBDHe2OGDBm6dOpQxElEBFEoCoLUIKWKttAfErVaVKq1BG1R1MFSrKJ0qCgFlSKo+Ed+5b2QtMlu7g1+4Kbc8OHu3l0ikX9YIAyDHcJRJomrYgrdgzVuKUJqehwVcw4ty8RTdQPf5xanFGF+IoHy8iza2yt4Oc7io1HCZ3OTS4owlYhha2kGnXJaCg1Oi3i3C1KMQYowFouiYll4bLWk0Gs974X4PhmPhy/1XDfQ69xKof5JDvd7GU8mZCFCbV2XQv6nzyIjIDwcGp6QKxGyzLAKZVPDoOmXCWb/MQQ7p6NvG+hWDbR3dV6Z7IImRb4uozJ+rqOeUDA7BAgXJR1vZ/4BZqqOgNCrsQ7vKISbHd03wMGMkHGWH3OLRiE5xMpUh3nXjEJy5ygjE3xVwYwQcW6UMjJiASoyxIT9tKZKdQirSY37YLo4h1NsY3E8mVvlyIi5uauwt4pQWNTQyOvqVMdKOUIKVMdFiX8bP64Ih8wvbpIpcbBIwkwAAAAASUVORK5CYII=",
+    "wiki_name": "Mystic earth staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_earth_staff",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Mystic_earth_staff",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": -1,
+        "attack_crush": 40,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 40,
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staves",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

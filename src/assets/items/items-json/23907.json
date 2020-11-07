@@ -1,0 +1,77 @@
+{
+    "id": 23907,
+    "name": "Imbued tephra",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "This is refined, imbued, and ready to go.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADWklEQVR4Xu2XT0hUURTGneUsXLzFwOPBg0FCQmQYYgZJFEVQIiRoF7QKalHQIihw4cKFFBRIQVEUUURFURRFIARSCIIUUlFRSEV/kP4ghVgRuDid77w5zzt33nszY6MEdeBD8N13z+9999x7zzQ1/Y9/L1IUrVUNO9myMtdvkTs+Qe7EJLlTD8l98Ji8Jy9XEyxFzuExco6fIuf0OcpcvCIQmdvj5N69R+tbW2ldS4sIIN6L1+S9mSP/w2fyvyw0GipFzSOjArSxUIhUMZ+nDbmcqL2tTSQwn74KEP42CIph9uwVoK6OjjJpYgWyoeCa57qUcRzyv/1sBFSK0lu2ClBPZ2coTQqhXkyXbCgsoQAt/CJ/fpH8ufk/qasAyE5oJoVTSc/hUtb3BUrASlDeq/f1QvHgQjExoffoednzKJdMKF0+AePlQ43VAcUDe/rCerETQthNSc8VJtx9DFQGBbdq34G8XJsHKxJqUm/2rdRT3HMTCMdELBRqi1UFih+25yi9bTvlvi9VJBUgrgETyH5eBnT2giyZygQq8vzZxSUBymezcVDL7rSWXpAvwdbVouRDT3ddHBCkS4YDNQqqi+fHRycAsTv8QnrXbkmCwSrAAQpJ+7q7K4CioEKgk2dCEEh3Xt+PJXGpKlDzgSEaHBiQwfgKvKjJbaAkl0IgriNn7FgIZNYS5lcom6ZJgZyDR8QROIPB5pkDGFUckEIpEBzB1WMXtdaROhThUgkIFi8GywTVCmS7VOZQCciGqamGYK9uSYApUH9vr8gGinPJrCEAmTCQCRMDhOALdfRQsKO4iHEnJV0TKhNM77JqQHA/wR0NBhoalolwkkYBxUFBFTBYLvRRBhBuAf/dx1rOIAQD7dsvO615eEQSIJENFAWlMBXuHD0RAnnPZoMGrnTBVlkuDa6lzi657dM7dkqCKCAbynYHcieng7Z2eiYQ2tuZp/XAaPCJ3b9JrhD0REhiw9hQJhDaW2lx0Wtzmyv9NnR/aiUwGkEzBZdkGbm2sIwi7iKlteXlAIACySl88w5lrt6Q3ht3mc6jWiFMEMGL5ROakto4f0mg5JxB83/5mvzPBjBl56k77AmXJ05J4covEcuVhgLUFylxJMoVe+QaRuXy2CPWPP4akEbHbxiIaRcCTfuKAAAAAElFTkSuQmCC",
+    "wiki_name": "Imbued tephra",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Imbued_tephra",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

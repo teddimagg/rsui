@@ -1,0 +1,85 @@
+{
+    "id": 6391,
+    "name": "Dad",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-08-24",
+    "combat_level": 101,
+    "size": 3,
+    "hitpoints": 120,
+    "max_hit": 27,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 8,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "troll"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 126.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": true,
+    "examine": "An unusually large troll.",
+    "icon": null,
+    "wiki_name": "Dad (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dad#Normal",
+    "attack_level": 60,
+    "strength_level": 120,
+    "defence_level": 50,
+    "magic_level": 0,
+    "ranged_level": 0,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 25,
+    "defence_slash": 25,
+    "defence_crush": 40,
+    "defence_magic": 200,
+    "defence_ranged": 200,
+    "attack_accuracy": 40,
+    "melee_strength": 70,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "drop_requirements": null
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "drop_requirements": null
+        }
+    ]
+}

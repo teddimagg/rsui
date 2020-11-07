@@ -1,0 +1,84 @@
+{
+    "id": 2963,
+    "name": "Silver sickle (b)",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16992,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 250,
+    "lowalch": 100,
+    "highalch": 150,
+    "weight": 1.587,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2004-07-13",
+    "duplicate": false,
+    "examine": "It's a blessed silver sickle.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACV0lEQVR4Xu2W/U4TQRTFuW/CI/gOJI0hNEFCxVBrKhZIbcUKiFCsWMPytWo3yBKUYIGUCNKEaIw+3jFnJrPsIgQ2LGX+8CQ3bbof89tzz9xtV9d/XVuC86vj0gu77+poOA4+raxg872LL40Gtj2v01CC2vT0P7UwMxMUATvgll5gqlTCq+cTePmsrD7PKwKuvl3A1scPNwUmeDoygnKhgEqxqKAmxsYixWOmeHx+chL12VnV0oTbKHg8PIzRR7lgsfF8Hr+Pv+PX0SF+Hn7Dj4MDnLRaONnfR3t3Vx0nON1iC5ff1BTQne7uJKAEuaGhAIiL/Wm30dzYwM76unp6htlbWlKO8DsfgI4Sfu5FRf3ur60m5dKpQwaG7hBmsVoNZUS3lW7s+T6ePMxG2mfOTcAlwYOBgQgMW2VywQVMheFYfAjmixuAQeeYSMAlwWA6rVwymWGFYcJnh+HYaj4IoUyeGPJrQgn6UinlkgnuRTBRCe719gZ5YsiZJ0Il0Dp98+NmE0dfd2LcULc7nKeEgCjB/f5+tD5vxbihDno2k1F5okvM0tWvv1Sitnu8G4raAHSJWeKOi3f9pbpKfsISFWRmiW1jjhIG0jvp7G8XS9QMMkAcAYkDxZOoYWmA4jt8I9LTnhm6ZXcoUe8yjgxuewuAKD3tOa2tAbrb04N8fhyVypyC0nWrEqTTgwGU523bB+W6mza4FYVynAZ8f88uqFptGfW6awdULjeKUmkK868dFIv6tXL2zA5KkEr1IZPJolAoo1pdtGEsRP/2WvBaOf3bawVMHP0FDxZUx/o7kGcAAAAASUVORK5CYII=",
+    "wiki_name": "Silver sickle (b)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Silver_sickle_(b)",
+    "wiki_exchange": null,
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 1,
+        "defence_magic": 1,
+        "defence_ranged": 1,
+        "melee_strength": 1,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slashing_swords",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

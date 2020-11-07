@@ -1,0 +1,94 @@
+{
+    "id": 20730,
+    "name": "Mist battlestaff",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20731,
+    "linked_id_placeholder": 20732,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 15500,
+    "lowalch": 6200,
+    "highalch": 9300,
+    "weight": 2.267,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2016-09-15",
+    "duplicate": false,
+    "examine": "It's a slightly magical stick.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiElEQVR4Xu2Wz0oCURSHPQ8SSPgAbnyFFtEqCAQJIjFBYRYaKQ2DiNkUMSj9EWnjToqoVRtNELQIClxUCxe5SOg5fnXv5U7j7PXMog8Ow4gDH79zzp0Jhf5ZOIS/Yocwfn/DZDzG6+OQW4rQubuVMl+TTzz3+7i/vuKSUi16GQ7wMRrhezrFU68nf4uGw7L8T8wRQj6XdefmptXC8KGLQafjCvmfmDOEZtNBuVyUAu32pSvHkI6AcHF+DNu2ZIn7RuOEKx0BuenocpwKr5C3VUqCpV1KpGpWZYt0Slpi4TLJRBKlvdJMqxhS0RAO9isIL822h1WmYBS4U9H8blWxLKW8M8OESkcIxaIxbiGCbdmoVWtYW1nlbpeSSWwkgrFRZ0eniK/Hg7NR6a00dyoalY6xY3APsIZQP6wHQUgNrtgoa9dCZDnCKUQwc6YUEVdRjPOj3t5CQp81rDL5bM5NxCvCICMg+TnhP2/8/1oghNRmKjgy4gDMbGc4t8mLmp+ApCNQn6RBSOcHtGpNLj10Rz8AAAAASUVORK5CYII=",
+    "wiki_name": "Mist battlestaff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mist_battlestaff",
+    "wiki_exchange": "https://oldschool.runescape.wiki/w/Exchange:Mist_battlestaff",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 28,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 35,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30,
+            "magic": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staves",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

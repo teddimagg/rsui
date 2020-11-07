@@ -1,0 +1,361 @@
+{
+    "id": 2595,
+    "name": "Werewolf",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-06-29",
+    "combat_level": 88,
+    "size": 1,
+    "hitpoints": 100,
+    "max_hit": 8,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "werewolf"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 100.0,
+    "slayer_masters": [
+        "vannaka"
+    ],
+    "duplicate": true,
+    "examine": "Various",
+    "icon": null,
+    "wiki_name": "Werewolf (Level 88)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Werewolf#Level_88",
+    "attack_level": 70,
+    "strength_level": 70,
+    "defence_level": 70,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_stab": 0,
+    "attack_slash": 0,
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 60,
+    "defence_ranged": 0,
+    "attack_accuracy": 0,
+    "melee_strength": 0,
+    "ranged_strength": 0,
+    "magic_damage": 0,
+    "drops": [
+        {
+            "id": 2859,
+            "name": "Wolf bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "drop_requirements": null
+        },
+        {
+            "id": 1353,
+            "name": "Steel axe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.048828125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1325,
+            "name": "Steel scimitar",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0625,
+            "drop_requirements": null
+        },
+        {
+            "id": 1157,
+            "name": "Steel full helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.029296875,
+            "drop_requirements": null
+        },
+        {
+            "id": 1109,
+            "name": "Mithril chainbody",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1181,
+            "name": "Mithril sq shield",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1147,
+            "name": "Rune med helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.005859375,
+            "drop_requirements": null
+        },
+        {
+            "id": 2138,
+            "name": "Raw chicken",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.01953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2132,
+            "name": "Raw beef",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.01953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2136,
+            "name": "Raw bear meat",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.01953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 1993,
+            "name": "Jug of wine",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "10",
+            "noted": false,
+            "rarity": 0.15625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "90",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "120",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "222",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 617,
+            "name": "Coins",
+            "members": true,
+            "quantity": "364",
+            "noted": false,
+            "rarity": 0.0390625,
+            "drop_requirements": null
+        },
+        {
+            "id": 958,
+            "name": "Grey wolf fur",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 6814,
+            "name": "Fur",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 7866,
+            "name": "Werewolf bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "drop_requirements": null
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "drop_requirements": null
+        },
+        {
+            "id": 11942,
+            "name": "Ecumenical key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.016666666666666666,
+            "drop_requirements": null
+        },
+        {
+            "id": 2677,
+            "name": "Clue scroll (easy)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "drop_requirements": null
+        },
+        {
+            "id": 2801,
+            "name": "Clue scroll (medium)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.001953125,
+            "drop_requirements": null
+        },
+        {
+            "id": 199,
+            "name": "Grimy guam leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00146484375,
+            "drop_requirements": null
+        },
+        {
+            "id": 201,
+            "name": "Grimy marrentill",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.001098701481342584,
+            "drop_requirements": null
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0008239874841794403,
+            "drop_requirements": null
+        },
+        {
+            "id": 205,
+            "name": "Grimy harralander",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006408591272011375,
+            "drop_requirements": null
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0005033827319587628,
+            "drop_requirements": null
+        },
+        {
+            "id": 209,
+            "name": "Grimy irit leaf",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0003662109375,
+            "drop_requirements": null
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002747011251758087,
+            "drop_requirements": null
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002288818359375,
+            "drop_requirements": null
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00018310546875,
+            "drop_requirements": null
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00013731837356456526,
+            "drop_requirements": null
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00013731837356456526,
+            "drop_requirements": null
+        }
+    ]
+}

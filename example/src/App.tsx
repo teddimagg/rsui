@@ -1,10 +1,14 @@
 import React from 'react'
 
-import { ExampleComponent } from 'rsui'
+import { Button } from 'rsui'
 import 'rsui/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <div>
+      <Button text="smegma" />
+    </div>
+  )
 }
 
 export default App
